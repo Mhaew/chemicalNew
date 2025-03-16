@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @filesource modules/borrow/views/orderstatus.php
  *
@@ -32,16 +31,17 @@ class View extends \Gcms\View
      */
     public static function render($index, $action)
     {
-        $actions = array(
+        $actions = [
             'delivery' => '{LNG_Delivery}',
+            'return' => '{LNG_Return}',
             'status' => '{LNG_Status update}'
-
-        );
-        $icons = array(
+        ];
+        $icons = [
             'delivery' => 'icon-outbox',
+            'return' => 'icon-inbox',
             'status' => 'icon-star0'
-        );
-        $form = Html::create('form', array(
+        ];
+        $form = Html::create('form', [
             'id' => 'status_frm',
             'class' => 'setup_frm',
             'autocomplete' => 'off',
@@ -49,46 +49,41 @@ class View extends \Gcms\View
             'onsubmit' => 'doFormSubmit',
             'ajax' => true,
             'token' => true
-        ));
-        $form->add('header', array(
-            'innerHTML' => '<h3 class=' . $icons[$action] . '>' . $actions[$action] . '</h3>'
-        ));
+        ]);
+        $form->add('header', [
+            'innerHTML' => '<h3 class='.$icons[$action].'>'.$actions[$action].'</h3>'
+        ]);
         $fieldset = $form->add('fieldset');
-        $fieldset->add('div', array(
-            'class' => 'item',
-            'innerHTML' => $index->topic
+        $fieldset->add('text', array(
+            'id' => 'topic',
+            'itemClass' => 'width50',
+            'label' => 'ชื่อสารเคมี',
+            'title' => 'ชื่อสารเคมี',
+            'value' => $index->topic,
+            'autofocus' => true,
+            'readonly' => true
+
         ));
+        $fieldset->add('text', array(
+            'id' => 'advisor',
+            'labelClass' => 'g-input icon-number',
+            'itemClass' => 'width20',
+            'label' => 'คงเหลือ',
+            'placeholder' => Language::replace('Fill some of the :name to find', array(':name' => '{LNG_Name}, {LNG_Email}, {LNG_Phone}')),
+            'title' => 'คงเหลือ',
+            'value' => $index->stock,
+            'autofocus' => true,
+            'readonly' => true
 
-        // status
+        ));
         if ($action !== 'status') {
             // amount
-            $fieldset->add('text', array(
-                'id' => 'remain',
-                'itemClass' => 'item',
-                'value' => $index->stock . ' ' . $index->unit,
-                'label' => 'จำนวนคงเหลือ',
-                'readonly' => true
-            ));
-        } else {
-            // status (แสดงเฉพาะเมื่อ $action เป็น 'status')
-            $fieldset->add('select', array(
-                'id' => 'status',
-                'labelClass' => 'g-input icon-star0',
-                'itemClass' => 'item',
-                'label' => '{LNG_Status}',
-                'options' => Language::get('BORROW_STATUS'),
-                'value' => $index->status
-            ));
-        }
-
-        if ($action !== 'status') {
-            // amount
-            $fieldset->add('number', array(
+            $fieldset->add('number', [
                 'id' => 'amount',
                 'labelClass' => 'g-input icon-number',
                 'itemClass' => 'item',
                 'label' => '{LNG_Quantity}'
-            ));
+            ]);
         }
         // status
         $fieldset->add('select', [
@@ -99,30 +94,30 @@ class View extends \Gcms\View
             'options' => Language::get('BORROW_STATUS'),
             'value' => $index->status
         ]);
-        $fieldset = $form->add('fieldset', array(
+        $fieldset = $form->add('fieldset', [
             'class' => 'submit right'
-        ));
+        ]);
         // submit
-        $fieldset->add('submit', array(
+        $fieldset->add('submit', [
             'class' => 'button ok large',
             'id' => 'order_submit',
             'value' => '{LNG_Save}'
-        ));
+        ]);
         // borrow_id
-        $fieldset->add('hidden', array(
+        $fieldset->add('hidden', [
             'id' => 'borrow_id',
             'value' => $index->borrow_id
-        ));
+        ]);
         // id
-        $fieldset->add('hidden', array(
+        $fieldset->add('hidden', [
             'id' => 'id',
             'value' => $index->id
-        ));
+        ]);
         // action
-        $fieldset->add('hidden', array(
+        $fieldset->add('hidden', [
             'id' => 'action',
             'value' => $action
-        ));
+        ]);
         // คืนค่า HTML
         return Language::trans($form->render());
     }

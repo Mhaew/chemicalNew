@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/inventory/views/items.php
  *
@@ -51,7 +52,7 @@ class View extends \Gcms\View
         ));
         $fieldset = $form->add('fieldset', array(
             'titleClass' => 'icon-barcode',
-            'title' => '{LNG_Serial/Registration No.} '.$product->topic
+            'title' => '{LNG_Serial/Registration No.} ' . $product->topic
         ));
         // ตาราง
         $table = new DataTable(array(
@@ -75,12 +76,20 @@ class View extends \Gcms\View
                     'text' => '{LNG_Serial/Registration No.}',
                     'colspan' => 2
                 ),
+                'size' => array(
+                    'text' => 'ขนาดบรรจุ',
+                    'class' => 'center'
+                ),
                 'stock' => array(
                     'text' => '{LNG_Stock}',
                     'class' => 'center'
                 ),
                 'unit' => array(
                     'text' => '{LNG_Unit}',
+                    'class' => 'center'
+                ),
+                'mj' => array(
+                    'text' => 'สาขาวิชา',
                     'class' => 'center'
                 )
             )
@@ -118,11 +127,17 @@ class View extends \Gcms\View
      */
     public function onRow($item, $o, $prop)
     {
-        $item['barcode'] = '<img style="max-width:none" src="data:image/png;base64,'.base64_encode(\Kotchasan\Barcode::create($item['barcode'], 34, 9)->toPng()).'">';
+        $item['barcode'] = '<img style="max-width:none" src="data:image/png;base64,' . base64_encode(\Kotchasan\Barcode::create($item['barcode'], 34, 9)->toPng()) . '">';
         $item['product_no'] = Form::text(array(
             'name' => 'product_no[]',
             'labelClass' => 'g-input',
             'value' => $item['product_no']
+        ))->render();
+        $item['size'] = Form::text(array(
+            'name' => 'size[]',
+            'labelClass' => 'g-input',
+            'size' => 1,
+            'value' => $item['size']
         ))->render();
         $item['stock'] = Form::text(array(
             'name' => 'stock[]',
@@ -135,6 +150,11 @@ class View extends \Gcms\View
             'labelClass' => 'g-input',
             'options' => $this->category->toSelect('unit', false),
             'value' => $item['unit']
+        ))->render();
+        $item['mj'] = Form::text(array(
+            'name' => 'mj[]',
+            'labelClass' => 'g-input',
+            'value' => $item['mj']
         ))->render();
         return $item;
     }

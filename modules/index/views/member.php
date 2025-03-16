@@ -207,12 +207,12 @@ class View extends \Gcms\View
         }
         $item['create_date'] = Date::format($item['create_date'], 'd M Y');
         if ($item['active'] == 1) {
-            $item['active'] = '<span class="icon-valid notext access" title="{LNG_Can login}"></span>';
+            $item['active'] = '<span class="icon-valid notext " title="{LNG_Can login}">สามารถเข้าระบบได้</span>';
         } else {
-            $item['active'] = '<span class="icon-valid notext disabled" title="{LNG_Can&#039;t login}"></span>';
+            $item['active'] = '<span class="icon-valid notext disabled" title="{LNG_Can&#039;t login}">ไม่สามารถเข้าระบบได้</span>';
         }
         if ($item['activatecode'] != '') {
-            $item['activatecode'] = '<span class="icon-verfied notext access" title="{LNG_Email was not verified}"></span>';
+            $item['activatecode'] = '<span class="icon-verfied notext access" title="{LNG_Email was not verified}">ยังไม่ได้ยืนยันอีเมล</span>';
         }
         if ($item['social'] == 1) {
             // Facebook

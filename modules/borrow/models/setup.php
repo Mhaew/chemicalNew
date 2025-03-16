@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/models/setup.php
  *
@@ -37,21 +38,26 @@ class Model extends \Kotchasan\Model
             ['S.status', $params['status']],
             ['W.borrower_id', $params['borrower_id']]
         ];
-        if ($params['status'] == 2) {
-            if ($params['due'] == 1) {
-                $where[] = [Sql::DATEDIFF('W.return_date', date('Y-m-d')), '<=', 0];
-            } else {
-                $where[] = Sql::create('(W.`return_date` IS NULL OR DATEDIFF(W.`return_date`, "'.date('Y-m-d').'") > 0)');
-            }
-        }
+
         $q1 = static::createQuery()
             ->select('borrow_id', Sql::COUNT('id', 'count'))
             ->from('borrow_items')
             ->where(['status', '>', 0])
             ->groupBy('borrow_id');
+
         return static::createQuery()
-            ->select('S.borrow_id', 'S.id', 'W.borrow_no', 'S.product_no', 'S.topic', 'S.num_requests', 'W.borrow_date',
-                'W.return_date', 'S.amount', 'Q1.count', Sql::DATEDIFF('W.return_date', date('Y-m-d'), 'due'), 'S.status')
+            ->select(
+                'S.borrow_id',
+                'S.id',
+                'W.borrow_no',
+                'S.product_no',
+                'S.topic',
+                'S.num_requests',
+                'W.borrow_date',
+                'S.amount',
+                'Q1.count',
+                'S.status'
+            )
             ->from('borrow W')
             ->join('borrow_items S', 'INNER', ['S.borrow_id', 'W.id'])
             ->join([$q1, 'Q1'], 'LEFT', ['Q1.borrow_id', 'W.id'])
@@ -100,7 +106,7 @@ class Model extends \Kotchasan\Model
                         ->delete('borrow', ['id', 'NOT IN', $borrows])
                         ->execute();
                     // log
-                    \Index\Log\Model::add(0, 'borrow', 'Delete', '{LNG_Delete} {LNG_Borrow} &amp; {LNG_Return} ID : '.$borrow_id, $login['id']);
+                    \Index\Log\Model::add(0, 'borrow', 'Delete', '{LNG_Delete} {LNG_Borrow}  ID : ' . $borrow_id, $login['id']);
                     // reload
                     $ret['location'] = 'reload';
                 }

@@ -37,7 +37,8 @@ class Model extends \Kotchasan\Model
             ->from('borrow B')
             ->join('user U', 'LEFT', ['U.id', 'B.borrower_id'])
             ->where(['B.id', $id])
-            ->first('B.*', 'U.name borrower');
+            ->first('B.*', 'U.name borrower', 'U.major major', 'U.phone phone', 'U.id_card id_card', 'U.p_name p_name', 
+            'U.p_phone p_phone', 'U.address address', 'U.province province', 'U.country country', 'U.zipcode zipcode');
     }
 
     /**

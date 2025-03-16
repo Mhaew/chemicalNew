@@ -52,7 +52,7 @@ return array(
   'Cancel' => 'ยกเลิก',
   'Canceled successfully' => 'ยกเลิกเรียบร้อย',
   'Cannot use :name' => 'ไม่สามารถใช้ :name ได้',
-  'Category' => 'SDS',
+  'Category' => 'สถานะ',
   'Change language' => 'สลับภาษา',
   'Click to edit' => 'คลิกเพื่อแก้ไข',
   'Comment' => 'หมายเหตุ',
@@ -139,7 +139,7 @@ return array(
   'Header' => 'ส่วนหัว',
   'Home' => 'หน้าหลัก',
   'How to define user authentication for mail servers. If you enable it, you must configure below correctly.' => 'กำหนดวิธีการตรวจสอบผู้ใช้สำหรับเมล์เซิร์ฟเวอร์ หากคุณเปิดใช้งานคุณต้องกำหนดค่าต่างๆด้านล่างถูกต้อง',
-  'Identification No.' => 'เลขประชาชน',
+  'Identification No.' => 'รหัสประจำตัว',
   'Image' => 'รูปภาพ',
   'Image size is in pixels' => 'ขนาดของรูปภาพเป็นพิกเซล',
   'Import' => 'นำเข้า',
@@ -147,7 +147,7 @@ return array(
   'Invalid :name' => ':name ไม่ถูกต้อง',
   'Inventory' => 'คลังสารเคมี',
   'INVENTORY_CATEGORIES' => array(
-    'category_id' => 'SDS',
+    'category_id' => 'สถานะ',
     'type_id' => 'สถานที่เก็บ',
     'model_id' => 'ผู้ผลิต'
   ),
@@ -179,7 +179,7 @@ return array(
     'username' => 'อีเมล',
     'email' => 'อีเมล',
     'phone' => 'เบอร์โทรศัพท์',
-    'id_card' => 'เลขประชาชน'
+    'id_card' => 'รหัสประจำตัว'
   ),
   'Logo' => 'โลโก',
   'Logout' => 'ออกจากระบบ',
@@ -396,7 +396,7 @@ return array(
   'You want to' => 'คุณต้องการ',
   'Your account has been approved.' => 'บัญชีของท่านได้รับการอนุมัติเรียบร้อยแล้ว',
   'Your account has not been approved, please wait or contact the administrator.' => 'บัญชีของท่านยังไม่ได้รับการอนุมัติ กรุณารอ หรือติดต่อสอบถามไปยังผู้ดูแล',
-  'Your message was sent successfully' => 'ส่งข้อความไปยังผู้ที่เกี่ยวข้องเรียบร้อยแล้ว',
+  'Your message was sent successfully' => 'คำขอถูกส่งไปยังพนักงานแล้ว',
   'Your new password is' => 'รหัสผ่านใหม่ของคุณคือ',
   'Your registration information' => 'ข้อมูลการลงทะเบียนของคุณ',
   'Zipcode' => 'รหัสไปรษณีย์'

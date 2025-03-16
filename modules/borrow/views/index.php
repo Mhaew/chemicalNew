@@ -74,6 +74,14 @@ class View extends \Gcms\View
             'label' => '{LNG_Borrowed date}',
             'value' => $index->borrow_date
         ));
+        // $groups->add('text', array(
+        //     'id' => 'advisor',
+        //     'labelClass' => 'g-input icon-profile',
+        //     'itemClass' => 'width50',
+        //     'label' => 'อาจารย์ที่ปรึกษา และเบอร์ติดต่อ',
+        //     'value' => $index->advisor
+        // ));
+        
         // return_date
         $groups = $fieldset->add('groups');
         // inventory_quantity

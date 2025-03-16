@@ -34,8 +34,8 @@ class View extends \Gcms\View
         $category = \Inventory\Category\Model::init(false);
         $content = '<article class="modal_detail">';
         $content .= '<header><h3 class="icon-file cuttext">{LNG_Details of} {LNG_Equipment}</h3></header>';
-        if (is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$index->id.'.jpg')) {
-            $content .= '<figure class="center"><img src="'.WEB_URL.DATA_FOLDER.'inventory/'.$index->id.'.jpg"></figure>';
+        if (is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$index->id.self::$cfg->stored_img_type)) {
+            $content .= '<figure class="center"><img src="'.WEB_URL.DATA_FOLDER.'inventory/'.$index->id.self::$cfg->stored_img_type.'"></figure>';
         }
         $content .= '<table class="border fullwidth"><tbody>';
         $content .= '<tr><th>{LNG_Equipment}</th><td>'.$index->topic.'</td></tr>';
@@ -49,7 +49,9 @@ class View extends \Gcms\View
         $content .= '</td></tr>';
         foreach (Language::get('INVENTORY_CATEGORIES', []) as $key => $label) {
             $content .= '<tr><th>'.$label.'</th><td>'.$category->get($key, $index->{$key}).'</td></tr>';
+
         }
+        $content .= '<tr><th>สาขาวิชา</th><td>'.$index->mj.'</td></tr>';
         foreach (Language::get('INVENTORY_METAS', []) as $key => $label) {
             if ($index->{$key} != '') {
                 $content .= '<tr><th>'.$label.'</th><td>'.nl2br($index->{$key}).'</td></tr>';
@@ -77,7 +79,9 @@ class View extends \Gcms\View
         $content .= '<table class="border fullwidth"><tbody>';
         $content .= '<tr><th>{LNG_Borrower}</th><td class="status'.$index->status.'">'.$index->borrower.'</td></tr>';
         $content .= '<tr><th>{LNG_Transaction date}</th><td>'.Date::format($index->transaction_date, 'd M Y').'</td></tr>';
-        $content .= '<tr><th>{LNG_Borrowed date}</th><td>'.Date::format($index->borrow_date, 'd M Y').'</td></tr>';
+        $content .= '<tr><th>วันนัดรับสารเคมี</th><td>'.Date::format($index->borrow_date, 'd M Y').'</td></tr>';
+        $content .= '<tr><th>อาจารย์ที่ปรึกษา และเบอร์ติดต่อ</th><td>'.$index->advisor.'</td></tr>';
+
         $content .= '</tbody></table>';
         $content .= '<div class="tablebody">';
         $content .= '<table class="fullwidth data border margin-top"><thead><tr>';

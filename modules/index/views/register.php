@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/index/views/register.php
  *
@@ -65,6 +66,14 @@ class View extends \Gcms\View
             'label' => '{LNG_Name}',
             'placeholder' => '{LNG_Please fill in} {LNG_Name}'
         ));
+        $fieldset->add('text', array(
+            'id' => 'register_major',
+            'labelClass' => 'g-input icon-books',
+            'itemClass' => 'width50',
+            'label' => 'สาขาวิชา',
+            'placeholder' => '{LNG_Please fill in} สาขาวิชา'
+        ));
+
         $groups = $fieldset->add('groups');
         // password
         $groups->add('password', array(
@@ -93,7 +102,7 @@ class View extends \Gcms\View
         foreach ($category->items() as $k => $label) {
             if (in_array($k, self::$cfg->categories_multiple)) {
                 $fieldset->add('checkboxgroups', array(
-                    'id' => 'register_'.$k,
+                    'id' => 'register_' . $k,
                     'itemClass' => 'item',
                     'label' => $category->name($k),
                     'labelClass' => 'g-input icon-group',
@@ -105,7 +114,7 @@ class View extends \Gcms\View
                 }
                 $a++;
                 $groups->add('text', array(
-                    'id' => 'register_'.$k,
+                    'id' => 'register_' . $k,
                     'labelClass' => 'g-input icon-menus',
                     'itemClass' => 'width50',
                     'label' => $label,

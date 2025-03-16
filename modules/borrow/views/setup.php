@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/views/setup.php
  *
@@ -34,7 +35,7 @@ class View extends \Gcms\View
     public function render(Request $request, $params)
     {
         // URL สำหรับส่งให้ตาราง
-        $uri = $request->createUriWithGlobals(WEB_URL.'index.php');
+        $uri = $request->createUriWithGlobals(WEB_URL . 'index.php');
         // ตาราง
         $table = new DataTable([
             /* Uri */
@@ -66,26 +67,11 @@ class View extends \Gcms\View
                 ],
                 'num_requests' => [
                     'text' => '{LNG_Quantity}',
-                    'class' => 'center'
+                    'class' => 'center',
                 ],
                 'borrow_date' => [
-                    'text' => '{LNG_Borrowed date}',
+                    'text' => 'วันนัดรับสารเคมี',
                     'sort' => 'borrow_date',
-                    'class' => 'center'
-                ],
-                'return_date' => [
-                    'text' => '{LNG_Date of return}',
-                    'sort' => 'return_date',
-                    'class' => 'center'
-                ],
-                'delivery_date' => [
-                    'text' => '{LNG_Delivery} ({LNG_Quantity})',
-                    'sort' => 'delivery_date',
-                    'class' => 'center'
-                ],
-                'returned_date' => [
-                    'text' => '{LNG_Returned} ({LNG_Quantity})',
-                    'sort' => 'returned_date',
                     'class' => 'center'
                 ]
             ],
@@ -103,17 +89,8 @@ class View extends \Gcms\View
                 'borrow_date' => [
                     'class' => 'center nowrap'
                 ],
-                'return_date' => [
-                    'class' => 'center nowrap'
-                ],
                 'amount' => [
                     'class' => 'center'
-                ],
-                'delivery_date' => [
-                    'class' => 'center nowrap'
-                ],
-                'returned_date' => [
-                    'class' => 'center nowrap'
                 ]
             ],
             /* ฟังก์ชั่นตรวจสอบการแสดงผลปุ่มในแถว */
@@ -164,13 +141,10 @@ class View extends \Gcms\View
         $item['borrow_no'] = '<a href="index.php?module=borrow-setup&amp;status='.$item['status'].'&amp;search='.$item['borrow_no'].'">'.$item['borrow_no'].'</a>';
         $item['topic'] = '<a class=two_lines href="index.php?module=borrow-setup&amp;status='.$item['status'].'&amp;search='.$item['product_no'].'">'.$item['topic'].'</a>';
         $item['borrow_date'] = Date::format($item['borrow_date'], 'd M Y');
-        $item['return_date'] = Date::format($item['return_date'], 'd M Y');
-        if ($item['return_date'] != '' && $item['status'] == 2 && $item['due'] <= 0) {
-            $item['return_date'] = '<span class="term3">'.$item['return_date'].'</span>';
-        }
+        // แสดงข้อมูลอาจารย์ที่ปรึกษา
         return $item;
     }
-
+    
     /**
      * ฟังก์ชั่นตรวจสอบว่าสามารถสร้างปุ่มได้หรือไม่
      *

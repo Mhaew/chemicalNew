@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/index/models/member.php
  *
@@ -45,7 +46,7 @@ class Model extends \Kotchasan\Model
         $n = 0;
         foreach ($category->items() as $k => $label) {
             if (!$category->isEmpty($k)) {
-                $query->join('user_meta D'.$n, 'LEFT', [['D'.$n.'.member_id', 'U.id'], ['D'.$n.'.name', $k]]);
+                $query->join('user_meta D' . $n, 'LEFT', [['D' . $n . '.member_id', 'U.id'], ['D' . $n . '.name', $k]]);
                 $select[] = Sql::GROUP_CONCAT("D$n.value", $label, ',', true);
                 if (!empty($params[$k])) {
                     $where[] = ["D$n.value", $params[$k]];
@@ -70,10 +71,12 @@ class Model extends \Kotchasan\Model
         $query = static::createQuery()
             ->selectCount()
             ->from('user')
-            ->where(['active', 0])
+            ->where(['active', 0]) // ผู้ใช้ที่ยังไม่ได้ยืนยัน (active = 0)
             ->execute();
-        return $query[0]->count;
+        return $query[0]->count; // คืนค่าจำนวนสมาชิกที่รอยืนยัน
     }
+    
+
 
     /**
      * ตารางสมาชิก (member.php)
@@ -105,7 +108,7 @@ class Model extends \Kotchasan\Model
                             if ($id != 1) {
                                 // ชื่อโฟลเดอร์ที่เก็บไฟล์ของสมาชิกที่ต้องการลบ
                                 foreach (['avatar'] as $item) {
-                                    $img = ROOT_PATH.DATA_FOLDER.$item.'/'.$id.self::$cfg->stored_img_type;
+                                    $img = ROOT_PATH . DATA_FOLDER . $item . '/' . $id . self::$cfg->stored_img_type;
                                     if (file_exists($img)) {
                                         unlink($img);
                                     }
@@ -113,7 +116,7 @@ class Model extends \Kotchasan\Model
                             }
                         }
                         // log
-                        \Index\Log\Model::add(0, 'index', 'User', '{LNG_Delete} {LNG_User} ID : '.implode(', ', $match[1]), $login['id']);
+                        \Index\Log\Model::add(0, 'index', 'User', '{LNG_Delete} {LNG_User} ID : ' . implode(', ', $match[1]), $login['id']);
                         // reload
                         $ret['location'] = 'reload';
                     } elseif ($action === 'sendpassword') {
@@ -171,7 +174,7 @@ class Model extends \Kotchasan\Model
                                 'activatecode' => ''
                             ]);
                             // log
-                            \Index\Log\Model::add(0, 'index', 'User', '{LNG_Accept member verification request} ID : '.implode(', ', $match[1]), $login['id']);
+                            \Index\Log\Model::add(0, 'index', 'User', '{LNG_Accept member verification request} ID : ' . implode(', ', $match[1]), $login['id']);
                         } else {
                             // Send member confirmation message
                             foreach ($emails as $id => $item) {
@@ -179,10 +182,10 @@ class Model extends \Kotchasan\Model
                                     // OTP
                                     $otp = Text::generateRandomString();
                                     $otp_expired = time() + self::$cfg->otp_request_timeout;
-                                    $item['activatecode'] = $otp.':'.$otp_expired;
+                                    $item['activatecode'] = $otp . ':' . $otp_expired;
                                 } else {
                                     // Activate
-                                    $item['activatecode'] = md5($item['username'].uniqid());
+                                    $item['activatecode'] = md5($item['username'] . uniqid());
                                 }
                                 // save
                                 $this->db()->update($this->getTableName('user'), ['id', $id], $item);
@@ -193,7 +196,7 @@ class Model extends \Kotchasan\Model
                                 }
                             }
                             // log
-                            \Index\Log\Model::add(0, 'index', 'User', '{LNG_Send member confirmation message} ID : '.implode(', ', $match[1]), $login['id']);
+                            \Index\Log\Model::add(0, 'index', 'User', '{LNG_Send member confirmation message} ID : ' . implode(', ', $match[1]), $login['id']);
                         }
                         // reload
                         $ret['location'] = 'reload';
@@ -215,7 +218,7 @@ class Model extends \Kotchasan\Model
                             '1' => '{LNG_Can login} ID : ',
                             '2' => '{LNG_Send login approval notification} ID : '
                         ];
-                        \Index\Log\Model::add(0, 'index', 'User', $texts[$match2[1]].implode(', ', $match[1]), $login['id']);
+                        \Index\Log\Model::add(0, 'index', 'User', $texts[$match2[1]] . implode(', ', $match[1]), $login['id']);
                         // reload
                         $ret['location'] = 'reload';
                     } elseif ($action === 'login') {
@@ -228,4 +231,5 @@ class Model extends \Kotchasan\Model
         // คืนค่า JSON
         echo json_encode($ret);
     }
+
 }

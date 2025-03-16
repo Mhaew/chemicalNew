@@ -44,21 +44,20 @@ class Controller extends \Gcms\Controller
             // แสดงผล
             $section = Html::create('section');
             // breadcrumbs
-            $breadcrumbs = $section->add('nav', array(
+            $breadcrumbs = $section->add('nav', [
                 'class' => 'breadcrumbs'
-            ));
+            ]);
             $ul = $breadcrumbs->add('ul');
-            $ul->appendChild('<li><span class="icon-product">{LNG_Settings}</span></li>');
+            $ul->appendChild('<li><span class="icon-settings">{LNG_Settings}</span></li>');
             $ul->appendChild('<li><span>{LNG_Inventory}</span></li>');
-            $ul->appendChild('<li><span>{LNG_Module settings}</span></li>');
-            $section->add('header', array(
-                'innerHTML' => '<h2 class="icon-settings">'.$this->title.'</h2>'
-            ));
+            $section->add('header', [
+                'innerHTML' => '<h2 class="icon-product">'.$this->title.'</h2>'
+            ]);
             // menu
             $section->appendChild(\Index\Tabmenus\View::render($request, 'settings', 'inventory'));
-            $div = $section->add('div', array(
+            $div = $section->add('div', [
                 'class' => 'content_bg'
-            ));
+            ]);
             // แสดงฟอร์ม
             $div->appendChild(\Inventory\Settings\View::create()->render());
             // คืนค่า HTML

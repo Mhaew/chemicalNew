@@ -46,31 +46,19 @@ class View extends \Gcms\View
         $filters = [];
         $params = [];
         $this->category = \Inventory\Category\Model::init(false, true, false);
-
-        // กำหนดค่า params สำหรับการค้นหา
         foreach ($this->category->items() as $key => $label) {
             if ($key != 'unit') {
                 $params[$key] = $request->request($key)->topic();
-                $filters[] = array(
+                $filters[] = [
                     'name' => $key,
                     'text' => $label,
-                    'options' => array(0 => '{LNG_all items}') + $this->category->toSelect($key),
+                    'options' => [0 => '{LNG_all items}'] + $this->category->toSelect($key),
                     'value' => $params[$key]
-                );
+                ];
             }
         }
-
-        
-
-        // ตรวจสอบว่า stock_condition ถูกเลือกหรือไม่
-        $stock_condition = $request->request('stock_condition')->toInt();
-        if ($stock_condition == 1) {
-            $params['stock_condition'] = 1;  // ส่งเงื่อนไขว่า stock น้อยกว่า 40%
-        }
-
         // URL สำหรับส่งให้ตาราง
-        $uri = $request->createUriWithGlobals(WEB_URL . 'index.php');
-
+        $uri = $request->createUriWithGlobals(WEB_URL.'index.php');
         // ตาราง
         $table = new DataTable(array(
             'uri' => $uri,
@@ -79,7 +67,7 @@ class View extends \Gcms\View
             'sort' => $request->cookie('inventorySetup_sort', 'id desc')->toString(),
             'onRow' => array($this, 'onRow'),
             'hideColumns' => array('unit'),
-            'searchColumns' => ['topic', 'product_no'],
+            'searchColumns' => ['topic', 'product_no', 'mj'],
             /* ตั้งค่าการกระทำของของตัวเลือกต่างๆ ด้านล่างตาราง ซึ่งจะใช้ร่วมกับการขีดถูกเลือกแถว */
             'action' => 'index.php/inventory/model/setup/action',
             'actionCallback' => 'dataTableActionCallback',
@@ -135,12 +123,17 @@ class View extends \Gcms\View
                     'text' => '{LNG_Serial/Registration No.}',
                     'sort' => 'product_no'
                 ),
+                'mj' => array(
+                    'text' => 'สาขาวิชา',
+                    'class' => 'center',
+                    'sort' => 'mj'
+                ),
                 'stock' => array(
                     'text' => '{LNG_Stock}',
                     'class' => 'center',
                     'sort' => 'stock'
                 ),
-                'size' => array(  // เพิ่มคอลัมน์ size ใน header
+                'size' => array( 
                     'text' => 'ขนาดบรรจุ',
                     'class' => 'center',
                     'sort' => 'size'
@@ -157,6 +150,9 @@ class View extends \Gcms\View
                 ),
                 'product_no' => array(
                     'class' => 'nowrap'
+                ),
+                'mj' => array(
+                    'class' => 'center nowrap'
                 ),
                 'stock' => array(
                     'class' => 'center nowrap'
@@ -206,16 +202,17 @@ class View extends \Gcms\View
      */
     public function onRow($item, $o, $prop)
     {
-        $item['product_no'] = '<img style="max-width:none" src="data:image/png;base64,' . base64_encode(\Kotchasan\Barcode::create($item['product_no'], 50, 9)->toPng()) . '">';
-        $item['topic'] = '<span class=two_lines title="' . $item['topic'] . '">' . $item['topic'] . '</span>';
+        $item['product_no'] = '<img style="max-width:none" src="data:image/png;base64,'.base64_encode(\Kotchasan\Barcode::create($item['product_no'], 50, 9)->toPng()).'">';
+        $item['topic'] = '<span class=two_lines title="'.$item['topic'].'">'.$item['topic'].'</span>';
         foreach ($this->category->items() as $key => $label) {
             if (isset($item[$label])) {
                 $item[$label] = $this->category->get($key, $item[$label]);
             }
         }
-        $item['inuse'] = '<a id=inuse_' . $item['id'] . ' class="icon-valid ' . ($item['inuse'] == 0 ? 'disabled' : 'access') . '" title="' . $this->inventory_status[$item['inuse']] . '"></a>';
-        $thumb = is_file(ROOT_PATH . DATA_FOLDER . 'inventory/' . $item['id'] . '.jpg') ? WEB_URL . DATA_FOLDER . 'inventory/' . $item['id'] . '.jpg' : WEB_URL . 'skin/img/noicon.png';
-        $item['id'] = '<img src="' . $thumb . '" style="max-height:50px;max-width:50px" alt=thumbnail>';
+        $item['inuse'] = '<a id=inuse_'.$item['id'].' class="icon-valid '.($item['inuse'] == 0 ? 'disabled' : 'access').'" title="'.$this->inventory_status[$item['inuse']].'"></a>';
+        $thumb = is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$item['id'].self::$cfg->stored_img_type) ? WEB_URL.DATA_FOLDER.'inventory/'.$item['id'].self::$cfg->stored_img_type : WEB_URL.'skin/img/noicon.png';
+        $item['stock'] .= ' '.$item['unit'];
+        $item['id'] = '<img src="'.$thumb.'" style="max-height:50px;max-width:50px" alt=thumbnail>';
 
         // แสดงขนาดและหน่วย
         if (isset($item['size'], $item['unit'])) {

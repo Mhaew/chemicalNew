@@ -97,7 +97,6 @@ class View extends \Gcms\View
                 ));
             }
         }
-
         // category
         $category = \Inventory\Category\Model::init(false);
         $n = 0;
@@ -126,7 +125,6 @@ class View extends \Gcms\View
             'placeholder' => '',
             'value' => isset($product->seller) ? $product->seller : ''
         ));
-
         // เพิ่มแถวใหม่
         $groups = $fieldset->add('groups');
         $groups->add('text', array(
@@ -137,7 +135,6 @@ class View extends \Gcms\View
             'placeholder' => '',
             'value' => isset($product->sds) ? $product->sds : ''
         ));
-
         $groups->add('text', array(
             'id' => 'un_class',
             'labelClass' => 'g-input icon-edit',
@@ -146,9 +143,6 @@ class View extends \Gcms\View
             'placeholder' => '',
             'value' => isset($product->un_class) ? $product->un_class : ''
         ));
-
-
-
         $groups->add('text', array(
             'id' => 'grade',
             'labelClass' => 'g-input icon-edit',
@@ -157,7 +151,15 @@ class View extends \Gcms\View
             'placeholder' => '',
             'value' => isset($product->grade) ? $product->grade : ''
         ));
-
+        $groups = $fieldset->add('groups');
+        $groups->add('text', array(
+            'id' => 'mj',
+            'labelClass' => 'g-input icon-edit',
+            'itemClass' => 'width30',
+            'label' => 'สาขาวิชา',
+            'placeholder' => '',
+            'value' => isset($product->mj) ? $product->mj : ''
+        ));
         $groups->add('number', array(
             'id' => 'size',
             'labelClass' => 'g-input icon-edit',
@@ -197,25 +199,12 @@ class View extends \Gcms\View
         ));
 
         // picture
-        if (is_file(ROOT_PATH . DATA_FOLDER . 'inventory/' . $product->id . '.jpg')) {
-            $img = WEB_URL . DATA_FOLDER . 'inventory/' . $product->id . '.jpg?' . time();
+        if (is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$product->id.self::$cfg->stored_img_type)) {
+            $img = WEB_URL.DATA_FOLDER.'inventory/'.$product->id.self::$cfg->stored_img_type.'?'.time();
         } else {
-            $img = WEB_URL . 'skin/img/noicon.png';
+            $img = WEB_URL.'skin/img/noicon.png';
         }
-
-        // inuse
-        $fieldset->add('select', array(
-            'id' => 'inuse',
-            'labelClass' => 'g-input icon-valid',
-            'itemClass' => 'item',
-            'label' => 'หมายเหตุ',
-            'options' => Language::get('INVENTORY_STATUS'),
-            'value' => $product->inuse
-        ));
-        $fieldset = $form->add('fieldset', array(
-            'class' => 'submit'
-        ));
-        $fieldset->add('file', array(
+        $fieldset->add('file', [
             'id' => 'picture',
             'labelClass' => 'g-input icon-upload',
             'itemClass' => 'item',
@@ -224,20 +213,32 @@ class View extends \Gcms\View
             'dataPreview' => 'imgPicture',
             'previewSrc' => $img,
             'accept' => self::$cfg->inventory_img_typies
-        ));
+        ]);
+        // inuse
+        $fieldset->add('select', [
+            'id' => 'inuse',
+            'labelClass' => 'g-input icon-valid',
+            'itemClass' => 'item',
+            'label' => '{LNG_Status}',
+            'options' => Language::get('INVENTORY_STATUS'),
+            'value' => $product->inuse
+        ]);
+        $fieldset = $form->add('fieldset', [
+            'class' => 'submit'
+        ]);
         // submit
-        $fieldset->add('submit', array(
+        $fieldset->add('submit', [
             'class' => 'button save large icon-save',
             'value' => '{LNG_Save}'
-        ));
+        ]);
         // id
-        $fieldset->add('hidden', array(
+        $fieldset->add('hidden', [
             'id' => 'id',
             'value' => $product->id
-        ));
-        \Gcms\Controller::$view->setContentsAfter(array(
+        ]);
+        \Gcms\Controller::$view->setContentsAfter([
             '/:type/' => implode(', ', self::$cfg->inventory_img_typies)
-        ));
+        ]);
         if ($product->id == 0) {
             // Javascript
             $form->script('barcodeEnabled(["product_no"]);');

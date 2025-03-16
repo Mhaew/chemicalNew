@@ -41,7 +41,7 @@ class Model extends \Kotchasan\Model
         }
         $query = static::createQuery()
             ->select(Sql::CONCAT(['S.borrow_id', '_', 'S.id'], 'id'), 'W.borrow_date','W.borrow_no', 'S.product_no', 'S.topic', 'I.stock', 'S.num_requests', 
-                 'U.name borrower', 'U.status Ustatus', 'W.borrower_id', 'S.amount', 'V.count_stock',
+                 'U.name borrower','U.phone','U.p_name','U.p_phone', 'U.status Ustatus', 'W.borrower_id', 'S.amount', 'V.count_stock',
                 Sql::DATEDIFF('W.return_date', date('Y-m-d'), 'due'), 'S.status')
             ->from('borrow W')
             ->join('borrow_items S', 'INNER', array('S.borrow_id', 'W.id'))

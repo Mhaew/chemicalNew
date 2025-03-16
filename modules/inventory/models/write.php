@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/inventory/models/write.php
  *
@@ -51,7 +52,8 @@ class Model extends \Kotchasan\Model
                 'vat' => 0,
                 'category_id' => 0,
                 'type_id' => 0,
-                'model_id' => 0
+                'model_id' => 0,
+                'mj' => ''
             );
         } else {
             // แก้ไข อ่านรายการที่เลือก
@@ -62,8 +64,8 @@ class Model extends \Kotchasan\Model
             $select = array('V.*', 'I.product_no', 'I.unit');
             $n = 1;
             foreach (Language::get('INVENTORY_METAS', []) as $key => $label) {
-                $query->join('inventory_meta M'.$n, 'LEFT', array(array('M'.$n.'.inventory_id', 'V.id'), array('M'.$n.'.name', $key)));
-                $select[] = 'M'.$n.'.value '.$key;
+                $query->join('inventory_meta M' . $n, 'LEFT', array(array('M' . $n . '.inventory_id', 'V.id'), array('M' . $n . '.name', $key)));
+                $select[] = 'M' . $n . '.value ' . $key;
                 ++$n;
             }
             return $query->first($select);
@@ -92,7 +94,8 @@ class Model extends \Kotchasan\Model
                         'size' => $request->post('size')->topic(),
                         'sds' => $request->post('sds')->topic(),
                         'seller' => $request->post('seller')->topic(),
-                        'inuse' => $request->post('inuse')->topic()
+                        'inuse' => $request->post('inuse')->topic(),
+                        'mj' => $request->post('mj')->topic()
                     );
                     // ตรวจสอบรายการที่เลือก
                     $index = self::get($request->post('id')->toInt());
@@ -101,7 +104,7 @@ class Model extends \Kotchasan\Model
                         $category = \Inventory\Category\Model::init(false);
                         foreach ($category->items() as $key => $label) {
                             if ($key != 'unit') {
-                                $save[$key] = $category->save($key, $request->post($key.'_text')->topic());
+                                $save[$key] = $category->save($key, $request->post($key . '_text')->topic());
                             }
                         }
                         $meta = [];
@@ -131,7 +134,7 @@ class Model extends \Kotchasan\Model
                                 'size' => $request->post('size')->topic(),
                                 'sds' => $request->post('sds')->topic(),
                                 'seller' => $request->post('seller')->topic(),
-
+                                'mj' => $request->post('mj')->topic(),
                             );
                             if ($items['product_no'] == '') {
                                 // ไม่ได้กรอก product_no
@@ -187,90 +190,81 @@ class Model extends \Kotchasan\Model
                             // ไม่ได้กรอก seller
                             $ret['ret_seller'] = 'Please fill in';
                         }
-                        if (!empty($ret)) {
-                            // ถ้ามีข้อผิดพลาด, คืนค่า
-                            echo json_encode($ret);
-                            return;
+                        if ($save['mj'] == '') {
+                            // ไม่ได้กรอก mj
+                            $ret['ret_mj'] = 'Please fill in';
                         }
-
-                        // อัปโหลดไฟล์
-                        $dir = ROOT_PATH.DATA_FOLDER.'inventory/';
-                        foreach ($request->getUploadedFiles() as $item => $file) {
-                            /* @var $file \Kotchasan\Http\UploadedFile */
-                            if ($item == 'picture') {
-                                if ($file->hasUploadFile()) {
-                                    if (!File::makeDirectory($dir)) {
-                                        // ไดเรคทอรี่ไม่สามารถสร้างได้
-                                        $ret['ret_'.$item] = Language::replace('Directory %s cannot be created or is read-only.', DATA_FOLDER.'inventory/');
-                                    } elseif (!in_array($file->getClientMediaType(), array('image/jpeg', 'image/png'))) {
-                                        // ไม่ใช่ไฟล์รูปภาพที่รองรับ
-                                        $ret['ret_'.$item] = Language::get('Invalid file type');
-                                    } elseif ($file->getSize() > 2 * 1024 * 1024) {
-                                        // ขนาดไฟล์ใหญ่เกินไป
-                                        $ret['ret_'.$item] = Language::get('File size exceeds limit');
-                                    } else {
-                                        try {
-                                            $file->resizeImage(self::$cfg->inventory_img_typies, $dir, $save['id'].'.jpg', self::$cfg->inventory_w);
-                                        } catch (\Exception $exc) {
-                                            // ไม่สามารถอัปโหลดได้
-                                            $ret['ret_'.$item] = Language::get($exc->getMessage());
+                        if (empty($ret)) {
+                            if ($index->id == 0) {
+                                $save['id'] = $db->getNextId($table_inventory);
+                            } else {
+                                $save['id'] = $index->id;
+                            }
+                            // อัปโหลดไฟล์
+                            $dir = ROOT_PATH . DATA_FOLDER . 'inventory/';
+                            foreach ($request->getUploadedFiles() as $item => $file) {
+                                /* @var $file \Kotchasan\Http\UploadedFile */
+                                if ($item == 'picture') {
+                                    if ($file->hasUploadFile()) {
+                                        if (!File::makeDirectory($dir)) {
+                                            // ไดเรคทอรี่ไม่สามารถสร้างได้
+                                            $ret['ret_' . $item] = Language::replace('Directory %s cannot be created or is read-only.', DATA_FOLDER . 'inventory/');
+                                        } else {
+                                            try {
+                                                $file->resizeImage(self::$cfg->inventory_img_typies, $dir, $save['id'] . self::$cfg->stored_img_type, self::$cfg->inventory_w);
+                                            } catch (\Exception $exc) {
+                                                // ไม่สามารถอัปโหลดได้
+                                                $ret['ret_' . $item] = Language::get($exc->getMessage());
+                                            }
                                         }
+                                    } elseif ($file->hasError()) {
+                                        // ข้อผิดพลาดการอัปโหลด
+                                        $ret['ret_' . $item] = Language::get($file->getErrorMessage());
                                     }
-                                } elseif ($file->hasError()) {
-                                    // ข้อผิดพลาดการอัปโหลด
-                                    $ret['ret_'.$item] = Language::get($file->getErrorMessage());
                                 }
                             }
                         }
-                        if (!empty($ret)) {
-                            // ถ้ามีข้อผิดพลาด, คืนค่า
-                            echo json_encode($ret);
-                            return;
-                        }
-
-                        // บันทึกข้อมูลในฐานข้อมูล
-                        try {
+                        if (empty($ret)) {
                             if ($index->id == 0) {
                                 // ใหม่
-                                $save['id'] = $db->getNextId($table_inventory);
                                 $db->insert($table_inventory, $save);
                                 // เพิ่ม inventory_items รายการแรก
-                                $db->delete($inventory_items, array('inventory_id', $save['id']), 0);
+                                $db->delete($inventory_items, ['inventory_id', $save['id']], 0);
                                 $items['inventory_id'] = $save['id'];
                                 $db->insert($inventory_items, $items);
                             } else {
                                 // แก้ไข
-                                $save['id'] = $index->id;
-                                $db->update($table_inventory, $save['id'], $save);
+                                $db->update($table_inventory, $index->id, $save);
                             }
                             // อัปเดต meta
-                            $db->delete($table_meta, array('inventory_id', $save['id']), 0);
+                            $db->delete($table_meta, ['inventory_id', $save['id']], 0);
                             foreach ($meta as $key => $value) {
                                 if ($value != '') {
-                                    $db->insert($table_meta, array(
+                                    $db->insert($table_meta, [
                                         'inventory_id' => $save['id'],
                                         'name' => $key,
                                         'value' => $value
-                                    ));
+                                    ]);
                                 }
                             }
                             // log
-                            \Index\Log\Model::add($save['id'], 'inventory', 'Save', '{LNG_Equipment} ID : '.$save['id'], $login['id']);
+                            \Index\Log\Model::add($save['id'], 'inventory', 'Save', '{LNG_Equipment} ID : ' . $save['id'], $login['id']);
                             // คืนค่า
                             $ret['alert'] = Language::get('Saved successfully');
-                            $ret['location'] = $request->getUri()->postBack('index.php', array('module' => 'inventory-setup'));
+                            $ret['location'] = $request->getUri()->postBack('index.php', ['module' => 'inventory-setup']);
                             // เคลียร์
                             $request->removeToken();
-                        } catch (\Exception $e) {
-                            $ret['alert'] = Language::get('Unable to complete the transaction: ').$e->getMessage();
                         }
-                        echo json_encode($ret);
                     }
                 } catch (\Kotchasan\InputItemException $e) {
-                    // คืนค่า ข้อผิดพลาดการกรอกข้อมูล
                     $ret['alert'] = $e->getMessage();
                 }
             }
         }
+        if (empty($ret)) {
+            $ret['alert'] = Language::get('Unable to complete the transaction');
+        }
+        // คืนค่าเป็น JSON
+        echo json_encode($ret);
     }
 }

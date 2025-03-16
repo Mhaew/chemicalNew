@@ -44,6 +44,7 @@ class Model extends \Kotchasan\Model
             }
         }
     
+        $select[] = 'I.mj';
         $select[] = 'I.stock';
         $select[] = 'I.size';
         $select[] = 'I.unit';
@@ -61,10 +62,6 @@ class Model extends \Kotchasan\Model
             ->where($where);
     }
     
-    
-    
-
-
     /**
      * รับค่าจาก action (setup.php)
      *
@@ -90,10 +87,10 @@ class Model extends \Kotchasan\Model
                         $db->delete($this->getTableName('inventory_meta'), array('inventory_id', $match[1]), 0);
                         $db->delete($this->getTableName('inventory_items'), array('inventory_id', $match[1]), 0);
                         // ลบรูปภาพ
-                        $dir = ROOT_PATH . DATA_FOLDER . 'inventory/';
+                        $dir = ROOT_PATH.DATA_FOLDER.'inventory/';
                         foreach ($match[1] as $id) {
-                            if (is_file($dir . $id . '.jpg')) {
-                                unlink($dir . $id . '.jpg');
+                            if (is_file($dir.$id.self::$cfg->stored_img_type)) {
+                                unlink($dir.$id.self::$cfg->stored_img_type);
                             }
                         }
                         // log

@@ -32,7 +32,7 @@ class Model extends \Kotchasan\Model
      */
     public static function toDataTable($product)
     {
-        $select = array('I.product_no barcode', 'I.product_no', 'I.stock', 'I.unit');
+        $select = array('I.product_no barcode', 'I.product_no', 'I.size','I.stock', 'I.unit', 'I.mj', );
         $query = static::createQuery()
             ->select($select)
             ->from('inventory_items I')
@@ -45,8 +45,10 @@ class Model extends \Kotchasan\Model
                 array(
                     'barcode' => '',
                     'product_no' => '',
+                    'size' => 1,
                     'stock' => 1,
-                    'unit' => ''
+                    'unit' => '',
+                    'mj' => '',
                 )
             );
         }
@@ -74,7 +76,9 @@ class Model extends \Kotchasan\Model
                         $db = $this->db();
                         // รับค่าจากการ POST
                         $stock = $request->post('stock', [])->toFloat();
+                        $size = $request->post('size', [])->toFloat();
                         $unit = $request->post('unit', [])->topic();
+                        $mj = $request->post('mj', [])->topic();
                         $items = [];
                         foreach ($request->post('product_no', [])->topic() as $k => $product_no) {
                             if ($product_no != '') {
@@ -92,7 +96,9 @@ class Model extends \Kotchasan\Model
                                             'product_no' => $product_no,
                                             'inventory_id' => $index->id,
                                             'stock' => $stock[$k],
-                                            'unit' => isset($unit[$k]) ? $unit[$k] : null
+                                            'mj' => $mj[$k],
+                                            'unit' => isset($unit[$k]) ? $unit[$k] : null,
+                                            'size' => $size[$k],
                                         );
                                     }
                                 }

@@ -164,7 +164,7 @@ class View extends \Gcms\View
         $groups->add('number', array(
             'id' => 'register_id_card',
             'labelClass' => 'g-input icon-profile',
-            'itemClass' => 'width50',
+            'itemClass' => 'width35',
             'label' => '{LNG_Identification No.}',
             'maxlength' => 13,
             'value' => $user['id_card'],
@@ -174,10 +174,18 @@ class View extends \Gcms\View
         $groups->add('text', array(
             'id' => 'register_phone',
             'labelClass' => 'g-input icon-phone',
-            'itemClass' => 'width50',
+            'itemClass' => 'width35',
             'label' => '{LNG_Phone}',
-            'maxlength' => 32,
+            'maxlength' => 10,
             'value' => $user['phone']
+        ));
+        $groups->add('text', array(
+            'id' => 'register_major',
+            'labelClass' => 'g-input icon-profile',
+            'itemClass' => 'width35',
+            'label' => 'สาขาวิชา',
+            'maxlength' => 32,
+            'value' => $user['major']
         ));
         // address
         $fieldset->add('text', array(
@@ -188,6 +196,7 @@ class View extends \Gcms\View
             'maxlength' => 150,
             'value' => $user['address']
         ));
+
         $groups = $fieldset->add('groups');
         // country
         $groups->add('text', array(
@@ -217,6 +226,23 @@ class View extends \Gcms\View
             'label' => '{LNG_Zipcode}',
             'maxlength' => 10,
             'value' => $user['zipcode']
+        ));
+        $groups = $fieldset->add('groups');
+        // name
+        $groups->add('text', array(
+            'id' => 'register_p_name',
+            'labelClass' => 'g-input icon-customer',
+            'itemClass' => 'width50',
+            'label' => 'อาจารย์ที่ปรึกษา',
+            'value' => $user['p_name']
+        ));
+        $groups->add('text', array(
+            'id' => 'register_p_phone',
+            'labelClass' => 'g-input icon-phone',
+            'itemClass' => 'width35',
+            'label' => 'เบอร์ติดต่อ',
+            'maxlength' => 10,
+            'value' => $user['p_phone']
         ));
         if (!empty(self::$cfg->line_official_account) && !empty(self::$cfg->line_channel_access_token) && $user['social'] != 3) {
             // line_uid

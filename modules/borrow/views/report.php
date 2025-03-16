@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/views/report.php
  *
@@ -34,7 +35,7 @@ class View extends \Gcms\View
     public function render(Request $request, $params)
     {
         // URL สำหรับส่งให้ตาราง
-        $uri = $request->createUriWithGlobals(WEB_URL.'index.php');
+        $uri = $request->createUriWithGlobals(WEB_URL . 'index.php');
         // ตาราง
         $table = new DataTable(array(
             /* Uri */
@@ -50,7 +51,7 @@ class View extends \Gcms\View
             /* คอลัมน์ที่ไม่ต้องแสดงผล */
             'hideColumns' => array('id', 'product_no', 'Ustatus', 'borrower_id', 'amount', 'returned_amount', 'due', 'status', 'count_stock'),
             /* คอลัมน์ที่สามารถค้นหาได้ */
-            'searchColumns' => array('borrow_no', 'borrower', 'product_no'),
+            'searchColumns' => array('borrow_no', 'borrower', 'product_no', 'major','p_name'),
             /* ตั้งค่าการกระทำของของตัวเลือกต่างๆ ด้านล่างตาราง ซึ่งจะใช้ร่วมกับการขีดถูกเลือกแถว */
             'action' => 'index.php/borrow/model/report/action',
             'actionCallback' => 'dataTableActionCallback',
@@ -82,6 +83,21 @@ class View extends \Gcms\View
                     'text' => '{LNG_Borrower}',
                     'sort' => 'borrower_id',
                     'class' => 'center'
+                ),
+                'phone' => array(
+                    'text' => 'เบอร์ติดต่อ',
+                    'sort' => 'phone',
+                    'class' => 'center'
+                ),
+                'p_name' => array(
+                    'text' => 'อาจารย์ที่ปรึกษา',
+                    'sort' => 'p_name',
+                    'class' => 'center'
+                ),
+                'p_phone' => array(
+                    'text' => 'เบอร์ติดต่อ',
+                    'sort' => 'p_phone',
+                    'class' => 'center'
                 )
             ),
             /* รูปแบบการแสดงผลของคอลัมน์ (tbody) */
@@ -96,6 +112,15 @@ class View extends \Gcms\View
                     'class' => 'center'
                 ),
                 'borrower' => array(
+                    'class' => 'center'
+                ),
+                'phone' => array(
+                    'class' => 'center'
+                ),
+                'p_name' => array(
+                    'class' => 'center'
+                ),
+                'p_phone' => array(
                     'class' => 'center'
                 ),
                 'amount' => array(
@@ -140,10 +165,12 @@ class View extends \Gcms\View
     public function onRow($item, $o, $prop)
     {
         $item['borrow_date'] = Date::format($item['borrow_date'], 'd M Y');
-        $item['borrow_no'] = '<a href="index.php?module=borrow-report&amp;status='.$item['status'].'&amp;search='.$item['borrow_no'].'">'.$item['borrow_no'].'</a>';
-        $item['topic'] = '<a href="index.php?module=borrow-report&amp;status='.$item['status'].'&amp;search='.$item['product_no'].'">'.$item['topic'].'</a>';
-        $item['borrower'] = '<a href="index.php?module=borrow-report&amp;status='.$item['status'].'&amp;borrower_id='.$item['borrower_id'].'" class="status'.$item['Ustatus'].'">'.$item['borrower'].'</a>';
-
+        $item['borrow_no'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['borrow_no'] . '">' . $item['borrow_no'] . '</a>';
+        $item['topic'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['product_no'] . '">' . $item['topic'] . '</a>';
+        $item['borrower'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;borrower_id=' . $item['borrower_id'] . '" class="status' . $item['Ustatus'] . '">' . $item['borrower'] . '</a>';
+        $item['phone'] = $item['phone'];
+        $item['p_name'] = $item['p_name'];
+        $item['p_phone'] = $item['p_phone'];
         $item['stock'] = empty($item['count_stock']) ? '{LNG_Unlimited}' : number_format($item['stock']);
         $item['num_requests'] = number_format($item['num_requests']);
         return $item;

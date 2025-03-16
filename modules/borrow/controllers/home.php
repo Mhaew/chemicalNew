@@ -36,10 +36,11 @@ class Controller extends \Gcms\Controller
             if (isset($items->allpending)) {
                 \Index\Home\Controller::renderCard($card, 'icon-exchange', '{LNG_Can be approve}', number_format($items->allpending), '{LNG_Waiting list}', 'index.php?module=borrow-report&amp;status=0');
             }
+            \Index\Home\Controller::renderCard($card, 'icon-exchange', $login['name'], number_format($items->pending), '{LNG_Asking_status} :  '.Language::get('BORROW_STATUS', null, 0), 'index.php?module=borrow-setup&amp;status=0');
 
             \Index\Home\Controller::renderCard($card, 'icon-valid', $login['name'], number_format($items->confirmed), '{LNG_Asking_status} : '.Language::get('BORROW_STATUS', null, 2), 'index.php?module=borrow-setup&amp;status=2');
             \Index\Home\Controller::renderCard($card, 'icon-close', $login['name'], number_format($items->returned), '{LNG_Asking_status} :  '.Language::get('BORROW_STATUS', null, 1), 'index.php?module=borrow-setup&amp;status=1');
-            \Index\Home\Controller::renderCard($card, 'icon-exchange', $login['name'], number_format($items->pending), '{LNG_Asking_status} :  '.Language::get('BORROW_STATUS', null, 0), 'index.php?module=borrow-setup&amp;status=0');
+
         }
     }
 }

@@ -61,7 +61,7 @@ class View extends \Gcms\View
             'sort' => $request->cookie('borrow_inventory_sort', 'id desc')->toString(),
             'onRow' => array($this, 'onRow'),
             'hideColumns' => array('unit'),
-            'searchColumns' => array('product_no', 'topic'),
+            'searchColumns' => array('product_no', 'topic', 'mj'),
             'action' => 'index.php/borrow/model/inventory/action',
             'actionCallback' => 'dataTableActionCallback',
             'filters' => array(
@@ -84,7 +84,6 @@ class View extends \Gcms\View
                     'value' => $params['model_id']
                 ),
                 // เพิ่มเงื่อนไขสำหรับ stock_condition
-
             ),
 
             'headers' => array(
@@ -110,6 +109,11 @@ class View extends \Gcms\View
                     'class' => 'center',
                     'sort' => 'type_id'
                 ),
+                'mj' => array(
+                    'text' => 'สาขาวิชา',
+                    'class' => 'center',
+                    'sort' => 'mj'
+                ),
                 'model_id' => array(
                     'text' => '{LNG_Model}',
                     'class' => 'center',
@@ -132,6 +136,9 @@ class View extends \Gcms\View
                     'class' => 'center nowrap'
                 ),
                 'type_id' => array(
+                    'class' => 'center nowrap'
+                ),
+                'mj' => array(
                     'class' => 'center nowrap'
                 ),
                 'model_id' => array(
@@ -170,28 +177,19 @@ class View extends \Gcms\View
     {
         // สร้าง Barcode สำหรับสินค้า
         $item['product_no'] = '<img style="max-width:none" src="data:image/png;base64,' . base64_encode(\Kotchasan\Barcode::create($item['product_no'], 40, 9)->toPng()) . '">';
-
         // แสดงหัวข้อสินค้า
         $item['topic'] = '<span class=two_lines>' . $item['topic'] . '</span>';
-
         // แสดงหมวดหมู่, ประเภท, และรุ่น
         $item['category_id'] = $this->category->get('category_id', $item['category_id']);
         $item['type_id'] = $this->category->get('type_id', $item['type_id']);
         $item['model_id'] = $this->category->get('model_id', $item['model_id']);
-
-
-
+        $item['mj'];
         // เพิ่มหน่วยให้กับ stock
         $item['stock'] .= ' ' . $item['unit'];
-
         // สร้าง path สำหรับภาพ thumbnail
-        $thumb = is_file(ROOT_PATH . DATA_FOLDER . 'inventory/' . $item['id'] . '.jpg') ? WEB_URL . DATA_FOLDER . 'inventory/' . $item['id'] . '.jpg' : WEB_URL . 'skin/img/noicon.png';
-
-
-
+        $thumb = is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$item['id'].self::$cfg->stored_img_type) ? WEB_URL.DATA_FOLDER.'inventory/'.$item['id'].self::$cfg->stored_img_type : WEB_URL.'skin/img/noicon.png';
         // สร้างแสดงภาพ thumbnail
-        $item['id'] = '<img src="' . $thumb . '" style="max-height:50px;max-width:50px" alt=thumbnail>';
-
+        $item['id'] = '<img src="'.$thumb.'" style="max-height:50px;max-width:50px" alt=thumbnail>';
         return $item;
     }
 }

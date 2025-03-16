@@ -1,12 +1,5 @@
 <?php
-/**
- * @filesource Gcms/Line.php
- *
- * @copyright 2016 Goragod.com
- * @license https://www.kotchasan.com/license/
- *
- * @see https://www.kotchasan.com/
- */
+
 
 namespace Gcms;
 

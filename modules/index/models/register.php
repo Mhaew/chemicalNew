@@ -42,8 +42,9 @@ class Model extends \Kotchasan\Model
                     // รับค่าจากการ POST
                     $save = array(
                         'name' => $request->post('register_name')->topic(),
-                        'status' => $request->post('register_status')->toInt()
-                    );
+                        'status' => $request->post('register_status')->toInt(),
+                        'major' => $request->post('register_major')->topic() // รับค่าฟิลด์ major
+                    );                    
                     $permission = $isAdmin ? $request->post('register_permission', [])->topic() : [];
                     // table
                     $table_user = $this->getTableName('user');
@@ -98,6 +99,9 @@ class Model extends \Kotchasan\Model
                     // name
                     if (empty($save['name'])) {
                         $ret['ret_register_name'] = 'Please fill in';
+                    }
+                    if (empty($save['major'])) {
+                        $ret['ret_register_major'] = 'Please fill in';
                     }
                     // หมวดหมู่
                     $user_categories = [];
@@ -207,6 +211,9 @@ class Model extends \Kotchasan\Model
     {
         if (!isset($save['username'])) {
             $save['username'] = null;
+        }
+        if (!isset($save['major'])) {
+            $save['major'] = null;
         }
         if (!isset($save['password'])) {
             $save['salt'] = '';

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/models/index.php
  *
@@ -44,7 +45,7 @@ class Model extends \Kotchasan\Model
                 'borrow_no' => '',
                 'transaction_date' => date('Y-m-d'),
                 'borrow_date' => date('Y-m-d'),
-                'return_date' => null
+                'advisor' => null
             ];
         } else {
             // แก้ไข อ่านรายการที่เลือก
@@ -69,7 +70,7 @@ class Model extends \Kotchasan\Model
         if ($borrow_id > 0) {
             // แก้ไข
             $result = static::createQuery()
-                ->select('S.borrow_id id', 'S.num_requests quantity', 'S.product_no', 'S.topic', 'S.unit', 'I.stock', 'V.count_stock')
+                ->select('S.borrow_id id', 'S.num_requests quantity', 'S.product_no', 'S.advisor', 'S.topic', 'S.unit', 'I.stock', 'V.count_stock')
                 ->from('borrow_items S')
                 ->join('inventory_items I', 'LEFT', ['I.product_no', 'S.product_no'])
                 ->join('inventory V', 'LEFT', ['V.id', 'I.inventory_id'])
@@ -86,13 +87,13 @@ class Model extends \Kotchasan\Model
                     'quantity' => 0,
                     'product_no' => '',
                     'topic' => '',
+                    'advisor' => '',
                     'unit' => '',
                     'stock' => 0
                 ]
             ];
         }
         return $result;
-
     }
 
     /**
@@ -112,7 +113,6 @@ class Model extends \Kotchasan\Model
                         'borrow_no' => $request->post('borrow_no')->topic(),
                         'transaction_date' => $request->post('transaction_date')->date(),
                         'borrow_date' => $request->post('borrow_date')->date(),
-                        'return_date' => $request->post('return_date')->date()
                     ];
                     // ตรวจสอบรายการที่เลือก
                     $borrow = self::get($request->post('borrow_id')->toInt(), $login);
@@ -127,7 +127,7 @@ class Model extends \Kotchasan\Model
                             'quantity' => $request->post('quantity', [])->toInt(),
                             'topic' => $request->post('topic', [])->topic(),
                             'product_no' => $request->post('product_no', [])->topic(),
-                            'unit' => $request->post('unit', [])->topic()
+                            'unit' => $request->post('unit', [])->topic(),
                         ];
                         $items = [];
                         foreach ($datas['quantity'] as $key => $value) {
@@ -186,6 +186,8 @@ class Model extends \Kotchasan\Model
                                 foreach ($items as $save) {
                                     $save['id'] = $n;
                                     $save['borrow_id'] = $order['id'];
+                                    // เพิ่ม advisor ในการบันทึก
+                                    $save['advisor'] = $save['advisor'] ?: $order['advisor']; // ใช้ค่า advisor จาก borrow ถ้าไม่มีก็ใช้จาก item
                                     $db->insert($table_borrow_items, $save);
                                     $n++;
                                 }
@@ -193,10 +195,10 @@ class Model extends \Kotchasan\Model
                                     // ส่งอีเมลไปยังผู้ที่เกี่ยวข้อง
                                     $ret['alert'] = \Borrow\Email\Model::send($order);
                                     // log (ใหม่)
-                                    $title = '{LNG_Borrow} &amp; {LNG_Return} {LNG_Add Borrow}';
+                                    $title = 'ส่งคำขอเบิกไปยังพนักงานแล้ว';
                                 } else {
                                     // log (แก้ไข)
-                                    $title = '{LNG_Borrow} &amp; {LNG_Return} {LNG_Edit}';
+                                    $title = 'ส่งคำขอเบิกไปยังพนักงานแล้ว';
                                 }
                                 // log
                                 \Index\Log\Model::add($order['id'], 'borrow', 'Save', $title, $login['id'], $order);

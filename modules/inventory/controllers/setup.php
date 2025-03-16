@@ -37,36 +37,32 @@ class Controller extends \Gcms\Controller
         $this->title = Language::trans('{LNG_List of} {LNG_Inventory}');
         // เลือกเมนู
         $this->menu = 'settings';
-    
-        // ตรวจสอบสิทธิ์
+        // สามารถบริหารจัดการได้
         if (Login::checkPermission(Login::isMember(), 'can_manage_inventory')) {
             // แสดงผล
             $section = Html::create('section');
             // breadcrumbs
-            $breadcrumbs = $section->add('nav', array('class' => 'breadcrumbs'));
+            $breadcrumbs = $section->add('nav', [
+                'class' => 'breadcrumbs'
+            ]);
             $ul = $breadcrumbs->add('ul');
             $ul->appendChild('<li><span class="icon-product">{LNG_Settings}</span></li>');
             $ul->appendChild('<li><span>{LNG_Inventory}</span></li>');
             $ul->appendChild('<li><span>{LNG_List of}</span></li>');
-            $section->add('header', array('innerHTML' => '<h2 class="icon-list">'.$this->title.'</h2>'));
-    
+            $section->add('header', [
+                'innerHTML' => '<h2 class="icon-list">'.$this->title.'</h2>'
+            ]);
             // menu
             $section->appendChild(\Index\Tabmenus\View::render($request, 'settings', 'inventory'));
-            $div = $section->add('div', array('class' => 'content_bg'));
-    
-            // ดึงค่าจากฟอร์มค้นหามาใช้งาน
-            $params = [];
-            $params['stock_condition'] = $request->request('stock_condition')->toInt(); // รับค่าของ stock_condition
-    
+            $div = $section->add('div', [
+                'class' => 'content_bg'
+            ]);
             // แสดงตาราง
-            $div->appendChild(\Inventory\Setup\View::create()->render($request, $params)); // ส่ง params ไปที่ View
-    
+            $div->appendChild(\Inventory\Setup\View::create()->render($request));
             // คืนค่า HTML
             return $section->render();
         }
-        // 404 ถ้าไม่มีสิทธิ์
+        // 404
         return \Index\Error\Controller::execute($this, $request->getUri());
     }
-    
-    
 }

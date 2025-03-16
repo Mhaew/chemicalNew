@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @filesource modules/borrow/models/inventory.php
  *
@@ -23,7 +22,6 @@ use Kotchasan\Language;
  * @since 1.0
  */
 class Model extends \Kotchasan\Model
-
 {
     /**
      * Query ข้อมูลสำหรับส่งให้กับ DataTable
@@ -37,7 +35,6 @@ class Model extends \Kotchasan\Model
         $where = array(
             array('V.inuse', 1)
         );
-
         if ($params['category_id'] > 0) {
             $where[] = array('V.category_id', $params['category_id']);
         }
@@ -47,16 +44,12 @@ class Model extends \Kotchasan\Model
         if ($params['type_id'] > 0) {
             $where[] = array('V.type_id', $params['type_id']);
         }
-
-
-
         return static::createQuery()
-            ->select('V.id', 'V.topic', 'I.product_no', 'V.category_id', 'V.type_id', 'V.model_id', 'I.stock', 'I.unit')
+            ->select('V.id', 'V.topic', 'I.product_no', 'V.category_id', 'V.type_id','I.mj', 'V.model_id', 'I.stock', 'I.unit')
             ->from('inventory V')
             ->join('inventory_items I', 'LEFT', array('I.inventory_id', 'V.id'))
             ->where($where);
     }
-
 
     /**
      * ฟังก์ชั่นค้นหาพัสดุจาก เลขพัสดุ
@@ -104,7 +97,7 @@ class Model extends \Kotchasan\Model
             ->join('inventory_items I', 'INNER', array('I.inventory_id', 'V.id'))
             ->where(array('I.product_no', $product_no))
             ->cacheOn();
-        $select = array('V.*', 'I.product_no', 'I.unit', 'I.stock');
+        $select = array('V.*', 'I.product_no', 'I.unit', 'I.stock', 'I.mj');
         $n = 0;
         foreach (Language::get('INVENTORY_METAS', []) as $key => $label) {
             $query->join('inventory_meta M' . $n, 'LEFT', array(array('M' . $n . '.inventory_id', 'V.id'), array('M' . $n . '.name', $key)));
@@ -112,6 +105,7 @@ class Model extends \Kotchasan\Model
             ++$n;
         }
         return $query->first($select);
+
     }
 
     /**
@@ -124,10 +118,11 @@ class Model extends \Kotchasan\Model
         $ret = [];
         // session, referer, Ajax
         if ($request->initSession() && $request->isReferer() && $request->isAjax()) {
-            $action = $request->post('action')->toString();
-            if (preg_match('/^detail_(.*)$/', $action, $match)) {
+            $action = $request->post('action', '')->toString();
+            $id = $request->post('id', '')->toString();
+            if (preg_match('/^detail(_(.*))?$/', $action, $match)) {
                 // แสดงรายละเอียด
-                $search = self::get($match[1]);
+                $search = self::get(isset($match[2]) ? $match[2] : $id);
                 if ($search) {
                     $ret['modal'] = \Borrow\Detail\View::details($search);
                 }

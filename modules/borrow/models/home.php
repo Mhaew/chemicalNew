@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/models/home.php
  *
@@ -39,8 +40,8 @@ class Model extends \Kotchasan\Model
                 array('S.status', 0)
             ));
 
-            
-            // ไม่อนุมัติ
+
+        // ไม่อนุมัติ
         // ครบกำหนดคืน
         $q1 = static::createQuery()
             ->select(Sql::COUNT())
@@ -49,7 +50,7 @@ class Model extends \Kotchasan\Model
             ->where(array(
                 array('W.borrower_id', $login['id']),
                 array('S.status', 1)
-                
+
             ));
         // อนุมัติ/ใช้งานอยู่
         $q2 = static::createQuery()
@@ -64,6 +65,24 @@ class Model extends \Kotchasan\Model
                 array(Sql::DATEDIFF('W.return_date', date('Y-m-d')), '>', 0),
                 Sql::ISNULL('W.return_date')
             ), 'OR');
+        $q4 = static::createQuery()
+            ->select(Sql::COUNT())
+            ->from('borrow W')
+            ->join('borrow_items S', 'INNER', array('S.borrow_id', 'W.id'))
+            ->where(array(
+                array('W.borrower_id', $login['id']),
+                array('S.status', 4)  // สถานะส่งมอบแล้ว
+            ));
+
+        // ผู้ใช้ที่รอยืนยันสิทธิ์
+        // $q5 = static::createQuery()
+        //     ->select(Sql::COUNT())
+        //     ->from('borrow W')
+        //     ->join('borrow_items S', 'INNER', array('S.borrow_id', 'W.id'))
+        //     ->where(array(
+        //         array('W.borrower_id', $login['id']),
+        //         array('W.confirmed', 0)  // ผู้ใช้ที่ยังไม่ได้ยืนยันสิทธิ์
+        //     ));
         if (Login::checkPermission($login, 'can_approve_borrow')) {
             // รายการรอตรวจสอบทั้งหมด
             $q3 = static::createQuery()
@@ -72,7 +91,7 @@ class Model extends \Kotchasan\Model
                 ->join('borrow_items S', 'INNER', array('S.borrow_id', 'W.id'))
                 ->where(array('S.status', 0));
 
-            return static::createQuery()->cacheOn()->first(array($q0, 'pending'), array($q1, 'returned'), array($q2, 'confirmed'), array($q3, 'allpending'));
+            return static::createQuery()->cacheOn()->first(array($q0, 'pending'), array($q1, 'returned'), array($q2, 'confirmed'), array($q3, 'allpending'), array($q4, 'delivered'));
         } else {
             return static::createQuery()->cacheOn()->first(array($q0, 'pending'), array($q1, 'returned'), array($q2, 'confirmed'));
         }
