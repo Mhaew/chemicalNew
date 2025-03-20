@@ -87,7 +87,7 @@ class Model extends \Kotchasan\Model
     {
         $ret = [];
         // session, referer, admin, ไม่ใช่สมาชิกตัวอย่าง
-        if ($request->initSession() && $request->isReferer() && $login = Login::isAdmin()) {
+        if ($request->initSession() && $request->isReferer() && ($login = Login::isMember()) && (Login::isAdmin() || $login['status'] == 3)) {
             if (Login::notDemoMode($login)) {
                 // รับค่าจากการ POST
                 $action = $request->post('action')->toString();

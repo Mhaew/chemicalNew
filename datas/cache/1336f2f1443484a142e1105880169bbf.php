@@ -1,1 +1,0 @@
-<?php exit?>[{"module":"borrow"},{"module":"index"},{"module":"inventory"}]

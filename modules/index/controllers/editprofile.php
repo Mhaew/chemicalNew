@@ -42,7 +42,7 @@ class Controller extends \Gcms\Controller
             // อ่านข้อมูลสมาชิก
             $user = \Index\Editprofile\Model::get($request->request('id', $login['id'])->toInt());
             // ตัวเอง, แอดมินแก้ไขได้ทุกคน ยกเว้น ID 1
-            if ($user && $user['id'] > 0 && ($login['id'] == $user['id'] || Login::isAdmin())) {
+            if ($user && $user['id'] > 0 && ($login['id'] == $user['id'] || Login::isAdmin() || $login['status'] == 3)) {
                 // แสดงผล
                 $section = Html::create('section');
                 // breadcrumbs

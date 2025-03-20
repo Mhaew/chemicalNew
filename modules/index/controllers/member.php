@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/index/controllers/member.php
  *
@@ -38,28 +39,31 @@ class Controller extends \Gcms\Controller
         // เลือกเมนู
         $this->menu = 'member';
         // แอดมิน, ไม่ใช่สมาชิกตัวอย่าง
-        if (Login::notDemoMode(Login::isAdmin())) {
-            // แสดงผล
-            $section = Html::create('section');
-            // breadcrumbs
-            $breadcrumbs = $section->add('nav', [
-                'class' => 'breadcrumbs'
-            ]);
-            $ul = $breadcrumbs->add('ul');
-            $ul->appendChild('<li><span class="icon-user">{LNG_Users}</span></li>');
-            $ul->appendChild('<li><span>'.$this->title.'</span></li>');
-            $section->add('header', [
-                'innerHTML' => '<h2 class="icon-users">'.$this->title.'</h2>'
-            ]);
-            $div = $section->add('div', [
-                'class' => 'content_bg'
-            ]);
-            // แสดงตาราง
-            $div->appendChild(\Index\Member\View::create()->render($request));
-            // คืนค่า HTML
-            return $section->render();
+        if ($login = Login::notDemoMode(Login::isMember())) {
+            if (Login::isAdmin() || $login['status'] == 3) {
+                // แสดงผล
+                // แสดงผล
+                $section = Html::create('section');
+                // breadcrumbs
+                $breadcrumbs = $section->add('nav', [
+                    'class' => 'breadcrumbs'
+                ]);
+                $ul = $breadcrumbs->add('ul');
+                $ul->appendChild('<li><span class="icon-user">{LNG_Users}</span></li>');
+                $ul->appendChild('<li><span>' . $this->title . '</span></li>');
+                $section->add('header', [
+                    'innerHTML' => '<h2 class="icon-users">' . $this->title . '</h2>'
+                ]);
+                $div = $section->add('div', [
+                    'class' => 'content_bg'
+                ]);
+                // แสดงตาราง
+                $div->appendChild(\Index\Member\View::create()->render($request));
+                // คืนค่า HTML
+                return $section->render();
+            }
+            // 404
+            return \Index\Error\Controller::execute($this, $request->getUri());
         }
-        // 404
-        return \Index\Error\Controller::execute($this, $request->getUri());
     }
 }

@@ -103,6 +103,24 @@ class Model
             );
         }
         if ($login) {
+            $member_submenus = array(
+                array(
+                    'text' => '{LNG_Member list}',
+                    'url' => 'index.php?module=member'
+                )
+            );
+            // แสดงเฉพาะแอดมินเท่านั้น
+            if (Login::isAdmin()) {
+                $member_submenus[] = array(
+                    'text' => '{LNG_Permission}',
+                    'url' => 'index.php?module=permission'
+                );
+                $member_submenus[] = array(
+                    'text' => '{LNG_Member status}',
+                    'url' => 'index.php?module=memberstatus'
+                );
+            }
+        
             return array(
                 'home' => array(
                     'text' => '{LNG_Home}',
@@ -110,20 +128,7 @@ class Model
                 ),
                 'member' => array(
                     'text' => '{LNG_Users}',
-                    'submenus' => array(
-                        array(
-                            'text' => '{LNG_Member list}',
-                            'url' => 'index.php?module=member'
-                        ),
-                        array(
-                            'text' => '{LNG_Permission}',
-                            'url' => 'index.php?module=permission'
-                        ),
-                        array(
-                            'text' => '{LNG_Member status}',
-                            'url' => 'index.php?module=memberstatus'
-                        )
-                    )
+                    'submenus' => $member_submenus
                 ),
                 'report' => array(
                     'text' => '{LNG_Report}',
@@ -137,6 +142,7 @@ class Model
                 )
             );
         }
+        
         // ไม่ได้ login
         return array(
             'home' => array(

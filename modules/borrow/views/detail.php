@@ -80,8 +80,8 @@ class View extends \Gcms\View
         $content .= '<tr><th>{LNG_Borrower}</th><td class="status'.$index->status.'">'.$index->borrower.'</td></tr>';
         $content .= '<tr><th>{LNG_Transaction date}</th><td>'.Date::format($index->transaction_date, 'd M Y').'</td></tr>';
         $content .= '<tr><th>วันนัดรับสารเคมี</th><td>'.Date::format($index->borrow_date, 'd M Y').'</td></tr>';
-        $content .= '<tr><th>อาจารย์ที่ปรึกษา และเบอร์ติดต่อ</th><td>'.$index->advisor.'</td></tr>';
-
+        $content .= '<tr><th>อาจารย์ที่ปรึกษา</th><td>'.$index->p_name.'</td></tr>';
+        $content .= '<tr><th>เบอร์ติดต่อ</th><td>'.$index->p_phone.'</td></tr>';
         $content .= '</tbody></table>';
         $content .= '<div class="tablebody">';
         $content .= '<table class="fullwidth data border margin-top"><thead><tr>';

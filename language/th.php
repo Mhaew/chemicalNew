@@ -94,7 +94,7 @@ return array(
   ),
   'days' => 'วัน',
   'Delete' => 'ลบ',
-  'Delivery' => 'อนุมัติ',
+  'Delivery' => 'จำนวนที่อนุมัติ',
   'Demo Mode' => 'โหมดตัวอย่าง',
   'Department' => 'แผนก',
   'Description' => 'คำอธิบาย',
@@ -271,7 +271,7 @@ return array(
     0 => 'ระงับการเผยแพร่',
     1 => 'เผยแพร่'
   ),
-  'Quantity' => 'จำนวน',
+  'Quantity' => 'จำนวนที่ขอเบิก',
   'Reason' => 'เหตุผล',
   'Register' => 'สมัครสมาชิก',
   'Register successfully Please log in' => 'ลงทะเบียนเรียบร้อยแล้วกรุณาเข้าสู่ระบบ',

@@ -1,1 +1,0 @@
-<?php exit?>[{"id":97,"category_id":"2","model_id":3,"type_id":1,"topic":"aa","inuse":1,"count_stock":1,"cheme_no":"a","sds":"aa","un_class":"a","grade":"a","exp":"2025-03-17","seller":"a","size":120,"mj":"a","product_no":"411-112","unit":"\u0e01\u0e23\u0e31\u0e21(g\/gm)","stock":120,"detail":"a"}]

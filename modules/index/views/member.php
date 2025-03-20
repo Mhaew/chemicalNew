@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/index/views/member.php
  *
@@ -13,6 +14,8 @@ namespace Index\Member;
 use Kotchasan\DataTable;
 use Kotchasan\Date;
 use Kotchasan\Http\Request;
+use Kotchasan\Login; // หรือ namespace ที่ Login class อยู่
+
 
 /**
  * module=member
@@ -44,7 +47,7 @@ class View extends \Gcms\View
         // สถานะสมาชิก
         $member_status = array(-1 => '{LNG_all items}');
         foreach (self::$cfg->member_status as $key => $value) {
-            $member_status[$key] = '{LNG_'.$value.'}';
+            $member_status[$key] = '{LNG_' . $value . '}';
         }
         $filters = [];
         // หมวดหมู่
@@ -67,8 +70,13 @@ class View extends \Gcms\View
             'value' => $params['status']
         );
         // URL สำหรับส่งให้ตาราง
-        $uri = $request->createUriWithGlobals(WEB_URL.'index.php');
+        $uri = $request->createUriWithGlobals(WEB_URL . 'index.php');
         // ตาราง
+        // ตรวจสอบว่าเป็นแอดมินหรือไม่
+        // ตรวจสอบว่าเป็นแอดมินหรือไม่
+        $isAdmin = Login::isAdmin();
+
+        // สร้าง DataTable
         $table = new DataTable(array(
             /* Uri */
             'uri' => $uri,
@@ -160,20 +168,22 @@ class View extends \Gcms\View
                 )
             ),
             /* ปุ่มแสดงในแต่ละแถว */
-            'buttons' => array(
+            'buttons' => $isAdmin ? array(
                 array(
                     'class' => 'icon-edit button green',
                     'href' => $uri->createBackUri(array('module' => 'editprofile', 'id' => ':id')),
                     'text' => '{LNG_Edit}'
                 )
-            ),
-            /* ปุ่มเพิม */
-            'addNew' => array(
+            ) : array(), // หากไม่ใช่แอดมิน ไม่แสดงปุ่ม Edit
+            /* ปุ่มเพิ่ม */
+            'addNew' => $isAdmin ? array(
                 'class' => 'float_button icon-register',
                 'href' => $uri->createBackUri(array('module' => 'register', 'id' => 0)),
                 'title' => '{LNG_Register}'
-            )
+            ) : array() // หากไม่ใช่แอดมิน ไม่แสดงปุ่ม Register
         ));
+
+
         // save cookie
         setcookie('member_perPage', $table->perPage, time() + 2592000, '/', HOST, HTTPS, true);
         setcookie('member_sort', $table->sort, time() + 2592000, '/', HOST, HTTPS, true);
@@ -207,7 +217,7 @@ class View extends \Gcms\View
         }
         $item['create_date'] = Date::format($item['create_date'], 'd M Y');
         if ($item['active'] == 1) {
-            $item['active'] = '<span class="icon-valid notext " title="{LNG_Can login}">สามารถเข้าระบบได้</span>';
+            $item['active'] = '<span class="icon-valid notext access " title="{LNG_Can login}">สามารถเข้าระบบได้</span>';
         } else {
             $item['active'] = '<span class="icon-valid notext disabled" title="{LNG_Can&#039;t login}">ไม่สามารถเข้าระบบได้</span>';
         }
@@ -226,20 +236,20 @@ class View extends \Gcms\View
         } else {
             $item['social'] = '';
         }
-        $item['status'] = isset(self::$cfg->member_status[$item['status']]) ? '<span class=status'.$item['status'].'>{LNG_'.self::$cfg->member_status[$item['status']].'}</span>' : '';
+        $item['status'] = isset(self::$cfg->member_status[$item['status']]) ? '<span class=status' . $item['status'] . '>{LNG_' . self::$cfg->member_status[$item['status']] . '}</span>' : '';
         $item['phone'] = self::showPhone($item['phone']);
-        if (is_file(ROOT_PATH.DATA_FOLDER.'avatar/'.$item['id'].'.jpg')) {
-            $avatar = WEB_URL.DATA_FOLDER.'avatar/'.$item['id'].'.jpg';
-            $avatar = '<img class=user_icon src="'.$avatar.'" alt="{LNG_Avatar}">';
+        if (is_file(ROOT_PATH . DATA_FOLDER . 'avatar/' . $item['id'] . '.jpg')) {
+            $avatar = WEB_URL . DATA_FOLDER . 'avatar/' . $item['id'] . '.jpg';
+            $avatar = '<img class=user_icon src="' . $avatar . '" alt="{LNG_Avatar}">';
         } else {
             $username = empty($item['username']) ? $item['name'] : $item['username'];
             if ($username == '') {
-                $avatar = '<img class=user_icon src="'.WEB_URL.'skin/img/noicon.png" alt="{LNG_Avatar}">';
+                $avatar = '<img class=user_icon src="' . WEB_URL . 'skin/img/noicon.png" alt="{LNG_Avatar}">';
             } else {
-                $avatar = '<span class=user_icon data-letters="'.mb_substr($username, 0, 2).'"></span>';
+                $avatar = '<span class=user_icon data-letters="' . mb_substr($username, 0, 2) . '"></span>';
             }
         }
-        $item['username'] = empty($item['username']) ? '' : '<a id=login_'.$item['id'].' class=icon-signin title="{LNG_Login as} '.$item['name'].'">'.$item['username'].'</a>';
+        $item['username'] = empty($item['username']) ? '' : '<a id=login_' . $item['id'] . ' class=icon-signin title="{LNG_Login as} ' . $item['name'] . '">' . $item['username'] . '</a>';
         $item['id'] = $avatar;
         return $item;
     }

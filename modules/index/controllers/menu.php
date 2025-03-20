@@ -58,7 +58,7 @@ class Controller
             unset($this->menus['settings']);
         }
         // แอดมิน, ไม่ใช่สมาชิกตัวอย่าง
-        if (!Login::notDemoMode(Login::isAdmin())) {
+        if (!Login::notDemoMode(Login::isAdmin() || $login['status'] == 3)) {
             unset($this->menus['member']);
         }
         // ไม่มีเมนู report
