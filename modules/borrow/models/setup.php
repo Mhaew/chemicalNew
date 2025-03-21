@@ -88,7 +88,7 @@ class Model extends \Kotchasan\Model
                         ->from('borrow B')
                         ->join('user U', 'LEFT', ['U.id', 'B.borrower_id'])
                         ->where(['B.id', $borrow_id])
-                        ->first('B.*', 'U.name borrower', 'U.status');
+                        ->first('B.*', 'U.name borrower', 'U.status', 'U.p_name', 'U.p_phone');
                     if ($borrow) {
                         // คืนค่า modal
                         $ret['modal'] = \Borrow\Detail\View::render($borrow);
