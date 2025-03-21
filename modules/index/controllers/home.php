@@ -73,12 +73,7 @@ class Controller extends \Gcms\Controller
                 'class' => 'content_bg'
             ));
             // แสดงจำนวนสมาชิกทั้งหมด
-            if ($card->count() < 4 && Login::notDemoMode(Login::isAdmin())) {
-                $watingForActivate = \Index\Member\Model::watingForActivate();
-                if ($watingForActivate > 0) {
-                    self::renderCard($card, 'icon-verfied', '{LNG_Users}', number_format($watingForActivate), '{LNG_Waiting list}', 'index.php?module=member&amp;sort=active%20asc');
-                }
-            }
+
             if ($card->count() > 0) {
                 // dashboard
                 $dashboard = $div->add('article', array(

@@ -55,8 +55,6 @@ class Model extends \Kotchasan\Model
                 'S.num_requests',
                 'W.borrow_date',
                 'S.amount',
-
-
                 'Q1.count',
                 'S.status'
             )

@@ -240,7 +240,7 @@ class View extends \Gcms\View
             'id' => 'register_p_phone',
             'labelClass' => 'g-input icon-phone',
             'itemClass' => 'width35',
-            'label' => 'เบอร์ติดต่อ',
+            'label' => 'เบอร์ติดต่อ อาจารย์ที่ปรึกษา',
             'maxlength' => 10,
             'value' => $user['p_phone']
         ));
