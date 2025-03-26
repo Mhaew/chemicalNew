@@ -10308,3 +10308,96 @@
 [2025-03-26 21:44:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
 [2025-03-26 21:44:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
 [2025-03-26 21:44:31] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:47:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:47:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:47:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:47:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:49:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:49:59] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:51:49] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-03-26 21:51:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:51:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:55:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:55:26] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:55:27] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:30] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:30] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:31] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>Undefined array key "stock_condition"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>110</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>223</b> 
+[2025-03-26 21:55:33] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:33] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:34] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:34] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:35] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:35] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:36] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 21:55:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 21:55:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:21] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-03-26 22:01:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:31] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:01:53] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:04:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:04:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:16] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:05:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:30] ERROR: <br>Exception : <em>Class "Borrow\Order\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-03-26 22:14:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:14:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:36] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:36] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:24:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-26 22:25:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 

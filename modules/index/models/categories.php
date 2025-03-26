@@ -86,7 +86,7 @@ class Model extends \Kotchasan\Model
         $ret = [];
         // session, token, can_config, ไม่ใช่สมาชิกตัวอย่าง
         if ($request->initSession() && $request->isSafe() && $login = Login::isMember()) {
-            if (Login::notDemoMode($login) && Login::checkPermission($login, 'can_config')) {
+            if (Login::notDemoMode($login) && Login::checkPermission($login, 'can_config' || 'can_manage_inventory')) {
                 try {
                     // ค่าที่ส่งมา
                     $type = $request->post('type')->topic();
