@@ -179,11 +179,12 @@ class View extends \Gcms\View
             'maxlength' => 10,
             'value' => $user['phone']
         ));
-        $groups->add('text', array(
+        $groups->add('select', array(
             'id' => 'register_major',
             'labelClass' => 'g-input icon-profile',
             'itemClass' => 'width35',
             'label' => 'สาขาวิชา',
+            'options' => Language::get('MAJORS'),
             'maxlength' => 32,
             'value' => $user['major']
         ));

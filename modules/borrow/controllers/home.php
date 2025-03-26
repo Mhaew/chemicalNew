@@ -42,6 +42,11 @@ class Controller extends \Gcms\Controller
                 \Index\Home\Controller::renderCard($card,'icon-valid', $login['name'],number_format($items->allconfirmed),' ' . Language::get('รายการรอส่งมอบ', null, 2),'index.php?module=borrow-report&status=2');
                 \Index\Home\Controller::renderCard($card,'icon-valid', $login['name'],number_format($items->allreturned),' ' . Language::get('รายการไม่อนุมัติ', null, 1),'index.php?module=borrow-report&status=1');
                 \Index\Home\Controller::renderCard($card,'icon-valid', $login['name'],number_format($items->alldelivered),' ' . Language::get('รายการส่งมอบแล้ว', null, 4),'index.php?module=borrow-report&status=4');
+                \Index\Home\Controller::renderCard($card, 'icon-exchange', $login['name'], number_format($items->pending), '{LNG_Asking_status} :  ' . Language::get('BORROW_STATUS', null, 0), 'index.php?module=borrow-setup&amp;status=0');
+                \Index\Home\Controller::renderCard($card, 'icon-exchange', $login['name'], number_format($items->delivered), '{LNG_Asking_status} :  ' . Language::get('BORROW_STATUS', null, 4), 'index.php?module=borrow-setup&amp;status=4');
+                \Index\Home\Controller::renderCard($card, 'icon-valid', $login['name'], number_format($items->confirmed), '{LNG_Asking_status} : ' . Language::get('BORROW_STATUS', null, 2), 'index.php?module=borrow-setup&amp;status=2');
+                \Index\Home\Controller::renderCard($card, 'icon-close', $login['name'], number_format($items->returned), '{LNG_Asking_status} :  ' . Language::get('BORROW_STATUS', null, 1), 'index.php?module=borrow-setup&amp;status=1');
+
             }
             if ($login['status'] == 0) {
                 \Index\Home\Controller::renderCard($card, 'icon-exchange', $login['name'], number_format($items->pending), '{LNG_Asking_status} :  ' . Language::get('BORROW_STATUS', null, 0), 'index.php?module=borrow-setup&amp;status=0');
