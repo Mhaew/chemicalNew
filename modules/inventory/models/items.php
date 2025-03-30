@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/inventory/models/items.php
  *
@@ -32,7 +33,7 @@ class Model extends \Kotchasan\Model
      */
     public static function toDataTable($product)
     {
-        $select = array('I.product_no barcode', 'I.product_no', 'I.size','I.stock', 'I.unit', 'I.mj', );
+        $select = array('I.product_no barcode', 'I.product_no', 'I.size', 'I.stock', 'I.unit', );
         $query = static::createQuery()
             ->select($select)
             ->from('inventory_items I')
@@ -48,7 +49,6 @@ class Model extends \Kotchasan\Model
                     'size' => 1,
                     'stock' => 1,
                     'unit' => '',
-                    'mj' => '',
                 )
             );
         }
@@ -78,32 +78,39 @@ class Model extends \Kotchasan\Model
                         $stock = $request->post('stock', [])->toFloat();
                         $size = $request->post('size', [])->toFloat();
                         $unit = $request->post('unit', [])->topic();
-                        $mj = $request->post('mj', [])->topic();
+                        // $mj = $request->post('mj', [])->topic();
                         $items = [];
                         foreach ($request->post('product_no', [])->topic() as $k => $product_no) {
                             if ($product_no != '') {
                                 if (isset($items[$product_no])) {
                                     // product_no ซ้ำ
-                                    $ret['ret_product_no_'.$k] = Language::replace('This :name already exist', array(':name' => Language::get('Product code')));
+                                    $ret['ret_product_no_' . $k] = Language::replace('This :name already exist', array(':name' => Language::get('Product code')));
                                 } else {
                                     // ตรวจสอบ product_no ซ้ำ (DB)
                                     $search = $db->first($table_items, array('product_no', $product_no));
                                     if ($search && $search->inventory_id != $index->id) {
                                         // product_no ซ้ำ
-                                        $ret['ret_product_no_'.$k] = Language::replace('This :name already exist', array(':name' => Language::get('Product code')));
+                                        $ret['ret_product_no_' . $k] = Language::replace('This :name already exist', array(':name' => Language::get('Product code')));
                                     } else {
-                                        $items[$product_no] = array(
-                                            'product_no' => $product_no,
-                                            'inventory_id' => $index->id,
-                                            'stock' => $stock[$k],
-                                            'mj' => $mj[$k],
-                                            'unit' => isset($unit[$k]) ? $unit[$k] : null,
-                                            'size' => $size[$k],
-                                        );
+                                        // ตรวจสอบว่า stock ห้ามมากกว่าขนาด (size)
+                                        if ($stock[$k] > $size[$k]) {
+                                            $ret['ret_stock_' . $k] = 'จำนวนคงเหลือต้องน้อยกว่าหรือเท่ากับขนาดบรรจุ';
+                                        } else {
+                                            $items[$product_no] = array(
+                                                'product_no' => $product_no,
+                                                'inventory_id' => $index->id,
+                                                'stock' => $stock[$k],
+                                                // 'mj' => $mj[$k],
+                                                // 'mj' => isset($mj[$k]) ? $mj[$k] : null,
+                                                'unit' => isset($unit[$k]) ? $unit[$k] : null,
+                                                'size' => $size[$k],
+                                            );
+                                        }
                                     }
                                 }
                             }
                         }
+
                         if (empty($ret)) {
                             // ลบข้อมูลเก่า ที่ยังไม่ได้ขาย
                             $where = array(
@@ -115,7 +122,7 @@ class Model extends \Kotchasan\Model
                                 $db->insert($table_items, $item);
                             }
                             // log
-                            \Index\Log\Model::add($index->id, 'inventory', 'Save', '{LNG_Serial/Registration No.} ID : '.$index->id, $login['id']);
+                            \Index\Log\Model::add($index->id, 'inventory', 'Save', '{LNG_Serial/Registration No.} ID : ' . $index->id, $login['id']);
                             // คืนค่า
                             $ret['alert'] = Language::get('Saved successfully');
                             $ret['location'] = 'reload';

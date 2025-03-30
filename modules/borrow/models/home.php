@@ -37,7 +37,8 @@ class Model extends \Kotchasan\Model
             ->join('borrow_items S', 'INNER', array('S.borrow_id', 'W.id'))
             ->where(array(
                 array('W.borrower_id', $login['id']),
-                array('S.status', 0)
+                array('S.status', 0),
+                
             ));
 
 

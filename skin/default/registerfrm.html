@@ -17,8 +17,17 @@
       <label class="g-input icon-user">
         <input type=text name=register_name id=register_name maxlength=150 title="{LNG_Please fill in} {LNG_Name}" placeholder="{LNG_Name}">
       </label>
-      <label class="g-input icon-user">
+      <!-- <label class="g-input icon-user">
         <input type=text name=register_major id=register_major maxlength=150 title="{LNG_Please fill in} สาขาวิชา" placeholder="สาขาวิชา">
+      </label> -->
+      <label class="g-input icon-user">
+        <select name="register_major" id="register_major" title="{LNG_Please fill in} สาขาวิชา">
+          <option selected>-- สาขาวิชา --</option>
+          <option value="เคมี">เคมี</option>
+          <option value="ชีววิทยา">ชีววิทยา</option>
+          <option value="ฟิสิกส์">ฟิสิกส์</option>
+          <option value="สิ่งแวดล้อม">สิ่งแวดล้อม</option>
+        </select>
       </label>
       <label class="g-input icon-password">
         <input class=showpassword type=password name=register_password id=register_password maxlength=50 title="{LNG_Password} {LNG_English lowercase letters and numbers, not less than 6 digits}" placeholder="{LNG_Password}">

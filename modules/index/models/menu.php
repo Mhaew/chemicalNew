@@ -130,17 +130,22 @@ class Model
                     'text' => '{LNG_Users}',
                     'submenus' => $member_submenus
                 ),
-                'report' => array(
-                    'text' => '{LNG_Report}',
-                    'url' => 'index.php?module=report',
-                    'submenus' => []
-                ),
                 'settings' => array(
                     'text' => '{LNG_Settings}',
                     'url' => 'index.php?module=settings',
                     'submenus' => $settings
                 )
             );
+            
+            // เพิ่มเมนู report ถ้าไม่ใช่แอดมิน
+            if (!$isAdmin) {
+                $menu['report'] = array(
+                    'text' => '{LNG_Report}',
+                    'url' => 'index.php?module=report',
+                    'submenus' => []
+                );
+            }
+            
         }
         
         // ไม่ได้ login

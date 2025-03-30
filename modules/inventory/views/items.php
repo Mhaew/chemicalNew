@@ -76,10 +76,6 @@ class View extends \Gcms\View
                     'text' => '{LNG_Serial/Registration No.}',
                     'colspan' => 2
                 ),
-                'size' => array(
-                    'text' => 'ขนาดบรรจุ',
-                    'class' => 'center'
-                ),
                 'stock' => array(
                     'text' => '{LNG_Stock}',
                     'class' => 'center'
@@ -88,10 +84,6 @@ class View extends \Gcms\View
                     'text' => '{LNG_Unit}',
                     'class' => 'center'
                 ),
-                'mj' => array(
-                    'text' => 'สาขาวิชา',
-                    'class' => 'center'
-                )
             )
         ));
         $fieldset->add('div', array(
@@ -150,11 +142,6 @@ class View extends \Gcms\View
             'labelClass' => 'g-input',
             'options' => $this->category->toSelect('unit', false),
             'value' => $item['unit']
-        ))->render();
-        $item['mj'] = Form::text(array(
-            'name' => 'mj[]',
-            'labelClass' => 'g-input',
-            'value' => $item['mj']
         ))->render();
         return $item;
     }

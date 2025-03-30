@@ -176,6 +176,7 @@ class View extends \Gcms\View
         $item['borrow_no'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['borrow_no'] . '">' . $item['borrow_no'] . '</a>';
         $item['topic'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['product_no'] . '">' . $item['topic'] . '</a>';
         $item['borrower'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;borrower_id=' . $item['borrower_id'] . '" class="status' . $item['Ustatus'] . '">' . $item['borrower'] . '</a>';
+        // $item['major'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;borrower_id=' . $item['borrower_id'] . '">' . $item['major'] . '</a>';
         $item['major'] = $item['major'];
         $item['phone'] = $item['phone'];
         $item['p_name'] = $item['p_name'];

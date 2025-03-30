@@ -35,7 +35,7 @@ class Model extends \Kotchasan\Model
     {
         $where = [];
         $select = ['V.id', 'V.topic', 'I.product_no'];
-    
+
         // เพิ่มการเลือกฟิลด์
         foreach (Language::get('INVENTORY_CATEGORIES') as $key => $label) {
             $select[] = "V.`$key` AS `$label`";
@@ -43,25 +43,31 @@ class Model extends \Kotchasan\Model
                 $where[] = array('V.' . $key, $params[$key]);
             }
         }
-    
-        $select[] = 'I.mj';
+
+        $select[] = 'V.mj';
         $select[] = 'I.stock';
         $select[] = 'I.size';
         $select[] = 'I.unit';
         $select[] = 'V.inuse';
-    
+
         // เงื่อนไข stock น้อยกว่า 40%
         if (isset($params['stock_condition']) && $params['stock_condition'] == 1) {
             $where[] = [\Kotchasan\Database\Sql::create('I.stock < 0.4 * I.size')];
         }
-    
+
         return static::createQuery()
             ->select($select)
             ->from('inventory V')
             ->join('inventory_items I', 'LEFT', array('I.inventory_id', 'V.id'))
             ->where($where);
+
+        // เพิ่มการตรวจสอบค่า params
+        error_log(print_r($params, true)); // ดูข้อมูลที่ส่งเข้ามา
+        if (isset($params['stock_condition']) && $params['stock_condition'] == 1) {
+            $where[] = [\Kotchasan\Database\Sql::create('I.stock < 0.4 * I.size')];
+        }
     }
-    
+
     /**
      * รับค่าจาก action (setup.php)
      *
@@ -87,10 +93,10 @@ class Model extends \Kotchasan\Model
                         $db->delete($this->getTableName('inventory_meta'), array('inventory_id', $match[1]), 0);
                         $db->delete($this->getTableName('inventory_items'), array('inventory_id', $match[1]), 0);
                         // ลบรูปภาพ
-                        $dir = ROOT_PATH.DATA_FOLDER.'inventory/';
+                        $dir = ROOT_PATH . DATA_FOLDER . 'inventory/';
                         foreach ($match[1] as $id) {
-                            if (is_file($dir.$id.self::$cfg->stored_img_type)) {
-                                unlink($dir.$id.self::$cfg->stored_img_type);
+                            if (is_file($dir . $id . self::$cfg->stored_img_type)) {
+                                unlink($dir . $id . self::$cfg->stored_img_type);
                             }
                         }
                         // log

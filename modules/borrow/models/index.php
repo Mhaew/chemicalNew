@@ -45,7 +45,6 @@ class Model extends \Kotchasan\Model
                 'borrow_no' => '',
                 'transaction_date' => date('Y-m-d'),
                 'borrow_date' => date('Y-m-d'),
-                'advisor' => null
             ];
         } else {
             // แก้ไข อ่านรายการที่เลือก
@@ -70,14 +69,16 @@ class Model extends \Kotchasan\Model
         if ($borrow_id > 0) {
             // แก้ไข
             $result = static::createQuery()
-                ->select('S.borrow_id id', 'S.num_requests quantity', 'S.product_no', 'S.advisor', 'S.topic', 'S.unit', 'I.stock', 'V.count_stock')
-                ->from('borrow_items S')
-                ->join('inventory_items I', 'LEFT', ['I.product_no', 'S.product_no'])
-                ->join('inventory V', 'LEFT', ['V.id', 'I.inventory_id'])
-                ->where(['S.borrow_id', $borrow_id])
-                ->order('S.id')
-                ->toArray()
-                ->execute();
+            ->select('S.borrow_id id', 'S.num_requests quantity', 'S.product_no', 'S.topic', 'S.unit', 'I.stock', 'V.count_stock')
+            ->from('borrow_items S')
+            ->join('inventory_items I', 'LEFT', ['I.product_no', 'S.product_no'])
+            ->join('inventory V', 'LEFT', ['V.id', 'I.inventory_id'])
+            // ->join('user U', 'LEFT', ['U.id', 'S.borrower_id']) // เพิ่มการ join กับตาราง user
+            ->where(['S.borrow_id', $borrow_id])
+            ->order('S.id')
+            ->toArray()
+            ->execute();
+        
         }
         if (empty($result)) {
             // ถ้าไม่มีผลลัพท์ คืนค่ารายการเปล่าๆ 1 รายการ
@@ -87,7 +88,7 @@ class Model extends \Kotchasan\Model
                     'quantity' => 0,
                     'product_no' => '',
                     'topic' => '',
-                    'advisor' => '',
+                    // 'major' => '',
                     'unit' => '',
                     'stock' => 0
                 ]
@@ -128,6 +129,8 @@ class Model extends \Kotchasan\Model
                             'topic' => $request->post('topic', [])->topic(),
                             'product_no' => $request->post('product_no', [])->topic(),
                             'unit' => $request->post('unit', [])->topic(),
+                            // 'major' => $request->post('major', [])->topic(),
+
                         ];
                         $items = [];
                         foreach ($datas['quantity'] as $key => $value) {
@@ -137,6 +140,8 @@ class Model extends \Kotchasan\Model
                                     'topic' => $datas['topic'][$key],
                                     'product_no' => $datas['product_no'][$key],
                                     'unit' => $datas['unit'][$key],
+                                    // 'major' => $datas['major'][$key],
+
                                     'status' => 0
                                 ];
                             }
@@ -186,11 +191,10 @@ class Model extends \Kotchasan\Model
                                 foreach ($items as $save) {
                                     $save['id'] = $n;
                                     $save['borrow_id'] = $order['id'];
-                                    // เพิ่ม advisor ในการบันทึก
-                                    $save['advisor'] = $save['advisor'] ?: $order['advisor']; // ใช้ค่า advisor จาก borrow ถ้าไม่มีก็ใช้จาก item
                                     $db->insert($table_borrow_items, $save);
                                     $n++;
                                 }
+                                
                                 if ($borrow->id == 0) {
                                     // ส่งอีเมลไปยังผู้ที่เกี่ยวข้อง
                                     $ret['alert'] = \Borrow\Email\Model::send($order);

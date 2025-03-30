@@ -44,7 +44,6 @@ class Model extends \Kotchasan\Model
                 'un_class' => '',
                 'grade' => '',
                 'exp' => '',
-                'size' => '',
                 'sds' => '',
                 'seller' => '',
                 'inuse' => 1,
@@ -91,7 +90,6 @@ class Model extends \Kotchasan\Model
                         'un_class' => $request->post('un_class')->topic(),
                         'grade' => $request->post('grade')->topic(),
                         'exp' => $request->post('exp')->topic(),
-                        'size' => $request->post('size')->topic(),
                         'sds' => $request->post('sds')->topic(),
                         'seller' => $request->post('seller')->topic(),
                         'inuse' => $request->post('inuse')->topic(),
@@ -131,7 +129,7 @@ class Model extends \Kotchasan\Model
                                 'un_class' => $request->post('un_class')->topic(),
                                 'grade' => $request->post('grade')->topic(),
                                 'exp' => $request->post('exp')->topic(),
-                                'size' => $request->post('size')->topic(),
+                                'size' => $request->post('size')->toDouble(),
                                 'sds' => $request->post('sds')->topic(),
                                 'seller' => $request->post('seller')->topic(),
                                 'mj' => $request->post('mj')->topic(),
@@ -146,16 +144,22 @@ class Model extends \Kotchasan\Model
                                     $ret['ret_product_no'] = Language::replace('This :name already exist', array(':name' => Language::get('Serial/Registration No.')));
                                 }
                             }
+                            if ($items['size'] == 0) {
+                                $ret['ret_size'] = 'Please fill in';
+                            }
+                            if ($items['stock'] == 0) {
+                                // ไม่ได้กรอก stock
+                                $ret['ret_stock'] = 'Please fill in';
+                            } elseif ($items['stock'] > $request->post('size')->toDouble()) {
+                                // ตรวจสอบว่า stock ห้ามมากกว่าขนาด (size)
+                                $ret['ret_stock'] = 'จำนวนคงเหลือต้องน้อยกว่าขนาดบรรจุ';
+                            }
                             if ($items['unit'] == '') {
                                 // ไม่ได้กรอก unit
                                 $ret['ret_unit'] = 'Please fill in';
                             } else {
                                 // save unit
                                 $category->save('unit', $items['unit']);
-                            }
-                            if ($items['stock'] == 0) {
-                                // ไม่ได้กรอก stock
-                                $ret['ret_stock'] = 'Please fill in';
                             }
                         }
                         if ($save['topic'] == '') {
@@ -177,10 +181,6 @@ class Model extends \Kotchasan\Model
                         if ($save['exp'] == '') {
                             // ไม่ได้กรอก exp
                             $ret['ret_exp'] = 'Please fill in';
-                        }
-                        if ($save['size'] == '') {
-                            // ไม่ได้กรอก size
-                            $ret['ret_size'] = 'Please fill in';
                         }
                         if ($save['sds'] == '') {
                             // ไม่ได้กรอก sds

@@ -130,7 +130,7 @@ class View extends \Gcms\View
         $groups->add('text', array(
             'id' => 'sds',
             'labelClass' => 'g-input icon-edit',
-            'itemClass' => 'width20',
+            'itemClass' => 'width15',
             'label' => 'Color',
             'placeholder' => '',
             'value' => isset($product->sds) ? $product->sds : ''
@@ -138,7 +138,7 @@ class View extends \Gcms\View
         $groups->add('text', array(
             'id' => 'un_class',
             'labelClass' => 'g-input icon-edit',
-            'itemClass' => 'width20',
+            'itemClass' => 'width15',
             'label' => 'UN Class',
             'placeholder' => '',
             'value' => isset($product->un_class) ? $product->un_class : ''
@@ -146,43 +146,42 @@ class View extends \Gcms\View
         $groups->add('text', array(
             'id' => 'grade',
             'labelClass' => 'g-input icon-edit',
-            'itemClass' => 'width30',
+            'itemClass' => 'width10',
             'label' => 'เกรด',
             'placeholder' => '',
             'value' => isset($product->grade) ? $product->grade : ''
         ));
-        $groups = $fieldset->add('groups');
-        $groups->add('text', array(
+        $groups->add('select', array(
             'id' => 'mj',
             'labelClass' => 'g-input icon-edit',
-            'itemClass' => 'width30',
+            'itemClass' => 'width20',
             'label' => 'สาขาวิชา',
+            'options' => Language::get('MJS'),
             'placeholder' => '',
             'value' => isset($product->mj) ? $product->mj : ''
         ));
-        $groups->add('number', array(
-            'id' => 'size',
-            'labelClass' => 'g-input icon-edit',
-            'itemClass' => 'width30',
-            'label' => 'ขนาดบรรจุ',
-            'placeholder' => '',
-            'value' => isset($product->size) ? $product->size : ''
-        ));
         if ($product->id == 0) {
             $groups = $fieldset->add('groups');
+            $groups->add('number', array(
+                'id' => 'size',
+                'labelClass' => 'g-input icon-number',
+                'itemClass' => 'width20',
+                'label' => '{LNG_size}',
+                'value' => isset($product->size) ? $product->size : 0
+            ));
             // stock
             $groups->add('number', array(
                 'id' => 'stock',
                 'labelClass' => 'g-input icon-number',
-                'itemClass' => 'width40',
+                'itemClass' => 'width20',
                 'label' => '{LNG_Stock}',
-                'value' => isset($product->stock) ? $product->stock : 1
+                'value' => isset($product->stock) ? $product->stock : 0
             ));
             // unit
             $groups->add('text', array(
                 'id' => 'unit',
                 'labelClass' => 'g-input icon-edit',
-                'itemClass' => 'width30',
+                'itemClass' => 'width20',
                 'label' => '{LNG_Unit}',
                 'datalist' => $category->toSelect('unit'),
                 'value' => isset($product->unit) ? $product->unit : '',

@@ -74,13 +74,7 @@ class View extends \Gcms\View
             'label' => '{LNG_Borrowed date}',
             'value' => $index->borrow_date
         ));
-        // $groups->add('text', array(
-        //     'id' => 'advisor',
-        //     'labelClass' => 'g-input icon-profile',
-        //     'itemClass' => 'width50',
-        //     'label' => 'อาจารย์ที่ปรึกษา และเบอร์ติดต่อ',
-        //     'value' => $index->advisor
-        // ));
+
         
         // return_date
         $groups = $fieldset->add('groups');
@@ -106,6 +100,7 @@ class View extends \Gcms\View
         $table .= '<th>{LNG_Serial/Registration No.}</th>';
         $table .= '<th class=center>{LNG_Quantity}</th>';
         $table .= '<th class=center>{LNG_Unit}</th>';
+        // $table .= '<th class=center>สาขาวิชา</th>';
         $table .= '<th></th>';
         $table .= '</tr></thead><tbody id=tb_products>';
         
@@ -115,6 +110,7 @@ class View extends \Gcms\View
             $table .= '<td><label class="g-input"><input type=text name=product_no[] value="' . $item['product_no'] . '" readonly></label></td>';
             $table .= '<td><label class="g-input"><input type=text name=quantity[] size=2 value="' . $item['quantity'] . '" max="' . (empty($item['count_stock']) ? 2147483647 : $item['stock']) . '" class="num" ></label></td>';
             $table .= '<td><label class="g-input"><input type=text name=unit[] size="5" value="' . $item['unit'] . '" readonly></label></td>';
+            // $table .= '<td><label class="g-input"><input type=text name=major[] value="' . $item['major'] . '" readonly></label></td>';
             $table .= '<td><a class="button wide delete notext"><span class=icon-delete></span></a></td>';
             $table .= '</tr>';
         }

@@ -315,6 +315,12 @@ return array(
     'ฟิสิกส์' => 'ฟิสิกส์',
     'สิ่งแวดล้อม' => 'สิ่งแวดล้อม'
   ),
+  'MJS' => array(
+    'เคมี' => 'เคมี',
+    'ชีววิทยา' => 'ชีววิทยา',
+    'ฟิสิกส์' => 'ฟิสิกส์',
+    'สิ่งแวดล้อม' => 'สิ่งแวดล้อม'
+  ),
   'Short description about your website' => 'ข้อความสั้นๆอธิบายว่าเป็นเว็บไซต์เกี่ยวกับอะไร',
   'Show' => 'แสดง',
   'Show web title with logo' => 'แสดงชื่อเว็บและโลโก',
@@ -402,7 +408,7 @@ return array(
   'You want to' => 'คุณต้องการ',
   'Your account has been approved.' => 'บัญชีของท่านได้รับการอนุมัติเรียบร้อยแล้ว',
   'Your account has not been approved, please wait or contact the administrator.' => 'บัญชีของท่านยังไม่ได้รับการอนุมัติ กรุณารอ หรือติดต่อสอบถามไปยังผู้ดูแล',
-  'Your message was sent successfully' => 'คำขอถูกส่งไปยังพนักงานแล้ว',
+  'Your message was sent successfully' => 'คำขอถูกส่งไปยังเจ้าหน้าที่แล้ว',
   'Your new password is' => 'รหัสผ่านใหม่ของคุณคือ',
   'Your registration information' => 'ข้อมูลการลงทะเบียนของคุณ',
   'Zipcode' => 'รหัสไปรษณีย์'
