@@ -75,18 +75,6 @@ class View extends \Gcms\View
             'label' => '{LNG_Borrowed date}',
             'value' => $index->borrow_date
         ));
-        // $groups->add('text', array(
-        //     'id' => 'techer',
-        //     'labelClass' => 'g-input icon-customer',
-        //     'itemClass' => 'width25',
-        //     'label' => 'อาจารย์ผู้สอน',
-        // ));
-        // $fieldset->add('text', [
-        //     'id' => 'techer',
-        //     'labelClass' => 'g-input icon-star0',
-        //     'itemClass' => 'item',
-        //     'label' => 'หมายเหตุ',
-        // ]);
         $groups->add('text', array(
             'id' => 'techer',
             'labelClass' => 'g-input icon-customer',

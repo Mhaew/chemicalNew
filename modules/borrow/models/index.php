@@ -74,12 +74,10 @@ class Model extends \Kotchasan\Model
             ->from('borrow_items S')
             ->join('inventory_items I', 'LEFT', ['I.product_no', 'S.product_no'])
             ->join('inventory V', 'LEFT', ['V.id', 'I.inventory_id'])
-            // ->join('user U', 'LEFT', ['U.id', 'S.borrower_id']) // เพิ่มการ join กับตาราง user
             ->where(['S.borrow_id', $borrow_id])
             ->order('S.id')
             ->toArray()
             ->execute();
-        
         }
         if (empty($result)) {
             // ถ้าไม่มีผลลัพท์ คืนค่ารายการเปล่าๆ 1 รายการ
@@ -90,9 +88,7 @@ class Model extends \Kotchasan\Model
                     'product_no' => '',
                     'topic' => '',
                     'techer' => '',
-                    // 'major' => '',
                     'unit' => '',
-                    // 'stock' => 0,
                 ]
             ];
         }
@@ -135,11 +131,6 @@ class Model extends \Kotchasan\Model
                             'topic' => $request->post('topic', [])->topic(),
                             'product_no' => $request->post('product_no', [])->topic(),
                             'unit' => $request->post('unit', [])->topic(),
-                            // ฟิลด์ใหม่ที่เพิ่ม
-                            // 'techer' => $request->post('techer', [])->topic(),
-                            // 'techerMajors' => $request->post('techerMajors', [])->topic(),
-                            // 'use_date' => $request->post('use_date', [])->date(),
-                            // 'useFor' => $request->post('useFor', [])->topic(),
                         ];
                         $items = [];
                         foreach ($datas['quantity'] as $key => $value) {
@@ -149,10 +140,6 @@ class Model extends \Kotchasan\Model
                                     'topic' => $datas['topic'][$key],
                                     'product_no' => $datas['product_no'][$key],
                                     'unit' => $datas['unit'][$key],
-                                    // 'techer' => $datas['techer'][$key],
-                                    // 'techerMajors' => $datas['techerMajors'][$key],
-                                    // 'use_date' => $datas['use_date'][$key],
-                                    // 'useFor' => $datas['useFor'][$key],
                                     'status' => 0
                                 ];
                             }
@@ -197,10 +184,6 @@ class Model extends \Kotchasan\Model
                                 // save items
                                 $n = 0;
                                 foreach ($items as $save) {
-                                    // $save['techer'] =  $order['techer'];
-                                    // $save['techerMajors'] =  $order['techerMajors'];
-                                    // $save['use_date'] =  $order['use_date'];
-                                    // $save['useFor'] =  $order['useFor'];
                                     $save['id'] = $n;
                                     $save['borrow_id'] = $order['id'];
                                     $db->insert($table_borrow_items, $save);
@@ -232,5 +215,4 @@ class Model extends \Kotchasan\Model
         // คืนค่าเป็น JSON
         echo json_encode($ret);
     }
-    
 }

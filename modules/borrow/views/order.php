@@ -191,7 +191,6 @@ class View extends \Gcms\View
             'itemClass' => 'width50',
             'label' => 'วันที่ต้องการใช้',
             'value' => $index->use_date,
-            
             'readonly' => true
         ));
         
@@ -250,16 +249,13 @@ class View extends \Gcms\View
             $table .= '<td><a id="product_no_'.$item['product_no'].'">'.$item['topic'].' ('.$item['product_no'].')</a></td>';
             $table .= '<td class="center">'.$item['num_requests'].'</td>';
             $table .= '<td class="center" id="amount_'.$item['id'].'">'.$item['amount'].'</td>';
-            // $table .= '<td class="center">'.$item['detail'].'</td>';
             $table .= '<td class="center"><span class="term'.$item['status'].'" id="status_'.$item['id'].'">'.$borrow_status[$item['status']].'</span></td>';
             $table .= '<td class="center" id="detail_'.$item['id'].'">'.$item['detail'].'</td>';
-            if ($item['status'] != 4) {
+            if ($item['status'] != 1 && $item['status'] != 3 && $item['status'] != 4) {
                 $table .= '<td class="center"><a id=delivery_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-outbox green">{LNG_Delivery}</a></td>';
                 $table .= '<td class="center"><a id=return_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-inbox blue">{LNG_Return}</a></td>';
                 $table .= '<td class="center"><a id=status_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-star0 red">{LNG_Status update}</a></td>';
             }
-
-
             $table .= '</tr>';
         }
         $table .= '</tbody>';
