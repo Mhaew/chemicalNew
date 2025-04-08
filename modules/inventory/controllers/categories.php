@@ -38,6 +38,7 @@ class Controller extends \Gcms\Controller
             'type' => $request->request('type')->topic(),
             // ชื่อหมวดหมู่ที่สามารถใช้งานได้
             'categories' => Language::get('INVENTORY_CATEGORIES', []) + array('unit' => Language::get('Unit'))
+            
         );
         if (!isset($params['categories'][$params['type']])) {
             $params['type'] = \Kotchasan\ArrayTool::getFirstKey($params['categories']);
@@ -77,4 +78,6 @@ class Controller extends \Gcms\Controller
         // 404
         return \Index\Error\Controller::execute($this, $request->getUri());
     }
+
+    
 }

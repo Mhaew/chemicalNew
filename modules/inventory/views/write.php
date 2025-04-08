@@ -156,7 +156,7 @@ class View extends \Gcms\View
             'labelClass' => 'g-input icon-edit',
             'itemClass' => 'width20',
             'label' => 'สาขาวิชา',
-            'options' => Language::get('MJS'),
+            'options' => Language::get('MAJORS'),
             'placeholder' => '',
             'value' => isset($product->mj) ? $product->mj : ''
         ));

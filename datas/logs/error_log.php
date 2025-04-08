@@ -18689,3 +18689,3044 @@
 [2025-03-31 02:04:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
 [2025-03-31 02:04:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
 [2025-03-31 02:04:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 12:06:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 12:06:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:11:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:11:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:12] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:12:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:15:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:15:59] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:16:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:16:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:17:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:17:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:18:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:18:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:19:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:19:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:19:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:19:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:20:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:20:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:20:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:20:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:28:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:28:59] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:51] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-03-31 13:29:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:29:52] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:30:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:30:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:33:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:33:39] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:43:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:43:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:43:41] ERROR: <br>PHP warning : <em>Undefined variable $uri</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\report.php</b> on line <b>40</b> 
+[2025-03-31 13:43:55] ERROR: <br>PHP warning : <em>Undefined variable $uri</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\report.php</b> on line <b>40</b> 
+[2025-03-31 13:48:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:48:33] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:52:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:27] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:39] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:53:44] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:54:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:54:53] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:55:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:55:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:55:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-03-31 13:55:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 12:41:30] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 12:41:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 12:41:39] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 12:42:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:13:37] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:13:37] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:14:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:14:17] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:14:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:14:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:17:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:17:44] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:20:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:20:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:21:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:39] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:22:51] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:29:20] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:29:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:33:45] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:33:45] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:34:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:34:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:35:40] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:35:47] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:36:33] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:37:19] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:40:42] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 13:40:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:40:51] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:41:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:41:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:43:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:43:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:46:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:46:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:32] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:48:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:50:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:51:33] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:52:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:53:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:55:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:59:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:59:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:59:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:59:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 13:59:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:00:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:00:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:00:39] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:01:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:01:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:01:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:01:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:02:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:02:16] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:02:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:02:27] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:03:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:03:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:03:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 14:05:24] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:05:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:07:05] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:09:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-03 14:23:00] ERROR: <br>Exception : <em>Attempt to modify property "headers" on null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\loader.php</b> on line <b>67</b> 
+[2025-04-03 14:36:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:36:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:36:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:36:52] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:39:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-03 14:39:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-04 22:39:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-04 22:39:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:43:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:43:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:44:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:44:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:47:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:47:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:47:42] ERROR: <br>Exception : <em>Class "Borrow\Order\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:47:45] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:47:45] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:48:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:48:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:48:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:48:32] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:49:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:49:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:49:51] ERROR: <br>Exception : <em>Class "Borrow\Orderstatus\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 09:49:52] ERROR: <br>Exception : <em>Class "Borrow\Orderstatus\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 09:49:52] ERROR: <br>Exception : <em>Class "Borrow\Orderstatus\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 09:50:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:50:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:50:16] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:16] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:50:17] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:17] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:50:17] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:17] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:50:17] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:17] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:50:18] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:18] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:50:19] ERROR: <br>PHP warning : <em>Undefined variable $form</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>44</b> 
+[2025-04-08 09:50:19] ERROR: <br>Exception : <em>Call to a member function add() on null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 09:52:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:52:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:52:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:52:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:54:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:54:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:54:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$detail</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>104</b> 
+[2025-04-08 09:54:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:54:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:54:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$detail</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\orderstatus.php</b> on line <b>104</b> 
+[2025-04-08 09:55:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:55:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:55:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:55:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:56:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:56:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:56:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:56:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:58:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 09:58:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:01:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:02:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:02:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:02:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:02:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:03:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:03:17] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:05:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:05:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:05] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:07] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:08] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:08] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:08] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:09] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:09] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:10] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:13] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:43] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:45] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'I.detail' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 10:06:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:06:53] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:07:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:07:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:09:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:09:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:10:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:10:39] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:13:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:13:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:16:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:16:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:17:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:17:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:25:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:25:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:26:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:26:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:28:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:28:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:28:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:28:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:29:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:29:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:41:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:41:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:41:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:41:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:46:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:46:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:48:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:48:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:52:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:52:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:53:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:53:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:55:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:55:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:55:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:55:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:56:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:56:21] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:58:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:58:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:59:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 10:59:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:01:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:01:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:02:48] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:01] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:04] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:03:38] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:31] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:05:58] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:06:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:23] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:07:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:09:50] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>228</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:11:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:12:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:06] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:44] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:45] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:12:46] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>230</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:13] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:15] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:16] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:17] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:27] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:30] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:13:37] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:36] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:15:41] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:17:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:17:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:17:11] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 11:17:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:17:15] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:20:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:20:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:20:42] ERROR: <br>Exception : <em>syntax error, unexpected token "<"</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\loader.php</b> on line <b>67</b> 
+[2025-04-08 11:20:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:20:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:10] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:24:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:19] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:24:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:16] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:19] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:21] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:25:39] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:30:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:30:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:30:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:30:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:36] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:36] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:37] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:37] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:31:49] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:32:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:32:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:33:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:33:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:51] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:55] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:34:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:35:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:35:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:35:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:35:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:36:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:36:56] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:37:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:37:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:37:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:37:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:39:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:39:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:39:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:39:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:15] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:45] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:45] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:40:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:24] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:26] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:41:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:42:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:42:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:00] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 11:43:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:43:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:45:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:45:12] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:47] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:46:53] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:47:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:47:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:48:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:49:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:49:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$use_date</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>94</b> 
+[2025-04-08 11:51:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$use_date</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>94</b> 
+[2025-04-08 11:51:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$use_date</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 11:51:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:51:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$use_date</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 11:52:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:52:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:53:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:53:21] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:53:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:53:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:16] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:54:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:56:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:56:04] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:56:04] ERROR: <br>Exception : <em>Class "Borrow\Index\Language" not found</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\loader.php</b> on line <b>67</b> 
+[2025-04-08 11:56:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:56:21] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:57:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:57:59] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:58:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:58:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:59:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 11:59:24] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:01:32] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:04:26] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:06:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:06:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:06:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:06:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:08:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:08:59] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:09:05] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 12:09:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:09:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:09:59] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 12:10:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 12:12:47] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 12:12:56] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 12:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:26:20] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:26:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:26:50] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:27:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:27:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:45:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:45:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:45:33] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:33] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:45:43] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:43] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:45:44] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:45:44] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:45:44] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:45:44] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:45:44] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:47:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:47:14] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:14] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:47:32] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:47:45] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:45] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:46] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:46] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:47] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:47] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:47] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:47] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:47:47] ERROR: <br>PHP warning : <em>Undefined array key 0</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>145</b> 
+[2025-04-08 12:47:47] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 12:48:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:48:15] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:56:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:56:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:57:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 12:57:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:08:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:09:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:11:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:11:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:11:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:11:50] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:12:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:12:29] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:32] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:32] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:34] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:35] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:36] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:36] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>147</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>148</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>149</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>150</b> 
+[2025-04-08 13:13:37] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:14:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>89</b> 
+[2025-04-08 13:18:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:18:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:18:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:18:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:18:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:18:50] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:50] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:50] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:50] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:50] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:51] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:51] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:51] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:51] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:51] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:52] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:52] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:52] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:52] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:53] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:53] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:53] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:53] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:53] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:54] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:54] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:54] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techer"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>195</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "techerMajors"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>196</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "use_date"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>197</b> 
+[2025-04-08 13:18:54] ERROR: <br>PHP warning : <em>Undefined array key "useFor"</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\models\index.php</b> on line <b>198</b> 
+[2025-04-08 13:18:54] ERROR: <br>Exception : <em>SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'techer' cannot be null</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 13:19:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:19:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:19:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:20:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:20:12] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:20:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:20:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:47:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:47:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:47:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:48:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:48:33] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:48:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:49:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:49:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:49:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:51:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:51:12] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:51:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:51:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:51:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:51:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:52:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:52:45] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:53:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:53:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:53:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:53:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:53:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:56:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:56:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:57:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:57:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:57:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:58:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:58:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:58:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:58:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:58:10] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'B.techer' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Database\Driver.php</b> on line <b>254</b> 
+[2025-04-08 13:58:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:58:52] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 13:59:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:12] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:26] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 13:59:32] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:00:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:00:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:01:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:01:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:05:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:05:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:26] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:06:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:07:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:07:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:07:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:07:53] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 14:08:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:51] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:08:55] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:19] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:28] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:09:33] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:10:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:10:03] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:10:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 14:15:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:15:14] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:15:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:15:15] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:26] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:15:35] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:18:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:18:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:18:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:18:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:18:34] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:19:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:19:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:20:40] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:09] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:42] ERROR: <br>PHP warning : <em>A non-numeric value encountered</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\setup.php</b> on line <b>231</b> 
+[2025-04-08 14:21:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:21:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:22:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:22:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:31] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:56] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:23:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:24:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:24:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:25:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:25:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:27:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:28:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:28:08] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:28:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:28:16] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:37:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:37:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:37:48] ERROR: <br>Exception : <em>Class "Inventory\Items\View" not found</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\loader.php</b> on line <b>67</b> 
+[2025-04-08 14:38:36] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:38:36] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:38:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:38:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:38:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:38:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:31] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:40] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:41:41] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:43:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:44:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:44:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:44:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:44:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:45:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:45:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:45:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 14:47:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:47:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:53:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:53:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:56:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:56:19] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:56:46] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:01] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:01] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:02] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:02] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:02] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:06] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:57:06] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 14:58:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:58:35] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:58:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 14:58:42] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:01:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:01:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:02:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:02:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:02:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:09] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:09] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:10] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:10] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:10] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:11] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:11] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:11] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:03:11] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:08:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:07] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:08:38] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:09:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:09:05] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:09:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:09:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:10:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:10:56] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:10:56] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:10:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:10:57] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:10:57] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:10] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:13] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:14] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:15] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:15] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:16] ERROR: <br>Exception : <em>Class "Inventory\Categories\Controller" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Kotchasan.php</b> on line <b>76</b> 
+[2025-04-08 15:11:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:32] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:11:33] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:12:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:12:11] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:13:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:13:00] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:13:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:13:48] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:22] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:14:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:15:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:15:43] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:16:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:16:23] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:17:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:17:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:17:45] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:17:45] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:18:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:18:18] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:19:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:19:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:22:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:22:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:25:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:25:29] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:27:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:27:52] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:29:41] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:29:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:29:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:29:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:29:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:30:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:30:49] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:33:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:33:44] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:35:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:35:13] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:35:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:35:46] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:36:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:36:25] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:36:50] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>167</b> 
+[2025-04-08 15:36:55] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>167</b> 
+[2025-04-08 15:37:49] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:37:52] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:37:52] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:37:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:37:54] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:38:16] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:18] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:18] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:18] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:38:19] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:02] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:41:02] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:41:39] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:41] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:41:41] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:45:01] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:45:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:31] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:31] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:33] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:45:33] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:46:34] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:46:53] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:55] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:56] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:46:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:47:17] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:47:34] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:36] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:36] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:36] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:37] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:39] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:40] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:47:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:47:58] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:52:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:52:30] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:52:54] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:57] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:58] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:58] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:52:58] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$delivered</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:56:06] ERROR: <br>PHP Error : <em>number_format(): Passing null to parameter #1 ($num) of type float is deprecated</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\controllers\home.php</b> on line <b>46</b> 
+[2025-04-08 15:56:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:56:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:57:56] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\menu.php</b> on line <b>61</b> 
+[2025-04-08 15:58:37] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:38] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:39] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:39] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 15:58:43] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:34] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:34] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:34] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:34] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:00:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:21] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:23] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:23] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:23] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:26] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:03:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:58] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:05:59] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:06:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:06:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:06:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:06:00] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:04] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:11] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:12] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:13] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:13] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:08:13] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:23] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:25] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:26] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:26] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:29] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:10:30] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:08] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:14] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:14] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:11:15] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unit' in 'field list'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 16:23:49] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>197</b> 
+[2025-04-08 16:24:00] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>197</b> 
+[2025-04-08 16:26:21] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>197</b> 
+[2025-04-08 16:26:48] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>197</b> 
+[2025-04-08 16:32:38] ERROR: <br>PHP warning : <em>Undefined array key "seller"</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\models\write.php</b> on line <b>197</b> 
+[2025-04-08 16:50:57] ERROR: <br>PHP warning : <em>Undefined variable $category</em> in <b>C:\xampp\htdocs\chemical\modules\inventory\views\write.php</b> on line <b>84</b> 
+[2025-04-08 16:50:57] ERROR: <br>Exception : <em>Call to a member function toSelect() on null</em> in <b>C:\xampp\htdocs\chemical\modules\index\controllers\loader.php</b> on line <b>67</b> 
+[2025-04-08 17:21:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 17:28:35] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 
+[2025-04-08 18:00:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 18:05:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$techer</em> in <b>C:\xampp\htdocs\chemical\modules\borrow\views\index.php</b> on line <b>95</b> 
+[2025-04-08 18:06:31] ERROR: <br>Exception : <em>Class "Inventory\Categories\View" not found</em> in <b>C:\xampp\htdocs\chemical\Kotchasan\Router.php</b> on line <b>70</b> 

@@ -101,7 +101,9 @@ class View extends \Gcms\View
             'value' => $params['type']
         ));
         // คืนค่า HTML
+        
         return $form->render();
+        
     }
 
     /**

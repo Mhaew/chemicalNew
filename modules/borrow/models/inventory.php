@@ -97,7 +97,7 @@ class Model extends \Kotchasan\Model
             ->join('inventory_items I', 'INNER', array('I.inventory_id', 'V.id'))
             ->where(array('I.product_no', $product_no))
             ->cacheOn();
-        $select = array('V.*', 'I.product_no', 'I.unit', 'I.stock', 'I.mj');
+        $select = array('V.*', 'I.product_no', 'I.unit', 'I.stock');
         $n = 0;
         foreach (Language::get('INVENTORY_METAS', []) as $key => $label) {
             $query->join('inventory_meta M' . $n, 'LEFT', array(array('M' . $n . '.inventory_id', 'V.id'), array('M' . $n . '.name', $key)));

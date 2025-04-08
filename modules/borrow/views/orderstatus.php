@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @filesource modules/borrow/views/orderstatus.php
  *
@@ -41,6 +42,7 @@ class View extends \Gcms\View
             'return' => 'icon-inbox',
             'status' => 'icon-star0'
         ];
+
         $form = Html::create('form', [
             'id' => 'status_frm',
             'class' => 'setup_frm',
@@ -51,12 +53,12 @@ class View extends \Gcms\View
             'token' => true
         ]);
         $form->add('header', [
-            'innerHTML' => '<h3 class='.$icons[$action].'>'.$actions[$action].'</h3>'
+            'innerHTML' => '<h3 class=' . $icons[$action] . '>' . $actions[$action] . '</h3>'
         ]);
         $fieldset = $form->add('fieldset');
         $fieldset->add('text', array(
             'id' => 'topic',
-            'itemClass' => 'width50',
+            'itemClass' => 'item',
             'label' => 'ชื่อสารเคมี',
             'title' => 'ชื่อสารเคมี',
             'value' => $index->topic,
@@ -65,11 +67,11 @@ class View extends \Gcms\View
 
         ));
         $fieldset->add('text', array(
-            'id' => 'advisor',
-            'labelClass' => 'g-input icon-number',
-            'itemClass' => 'width20',
+            'id' => 'stock',
+            // 'labelClass' => 'g-input icon-number',
+            'itemClass' => 'item',
             'label' => 'คงเหลือ',
-            'placeholder' => Language::replace('Fill some of the :name to find', array(':name' => '{LNG_Name}, {LNG_Email}, {LNG_Phone}')),
+            // 'placeholder' => Language::replace('Fill some of the :name to find', array(':name' => '{LNG_Name}, {LNG_Email}, {LNG_Phone}')),
             'title' => 'คงเหลือ',
             'value' => $index->stock,
             'autofocus' => true,
@@ -82,18 +84,27 @@ class View extends \Gcms\View
                 'id' => 'amount',
                 'labelClass' => 'g-input icon-number',
                 'itemClass' => 'item',
-                'label' => '{LNG_Quantity}'
+                'label' => 'จำนวน'
             ]);
         }
-        // status
-        $fieldset->add('select', [
-            'id' => 'status',
-            'labelClass' => 'g-input icon-star0',
-            'itemClass' => 'item',
-            'label' => '{LNG_Status}',
-            'options' => Language::get('BORROW_STATUS'),
-            'value' => $index->status
-        ]);
+        if ($action === 'status') {
+            // status
+            $fieldset->add('select', [
+                'id' => 'status',
+                'labelClass' => 'g-input icon-star0',
+                'itemClass' => 'item',
+                'label' => '{LNG_Status}',
+                'options' => Language::get('BORROW_STATUS'),
+                'value' => $index->status
+            ]);
+            $fieldset->add('text', [
+                'id' => 'detail',
+                'labelClass' => 'g-input icon-star0',
+                'itemClass' => 'item',
+                'label' => 'หมายเหตุ',
+            ]);
+        }
+
         $fieldset = $form->add('fieldset', [
             'class' => 'submit right'
         ]);

@@ -43,7 +43,7 @@ class Model extends \Kotchasan\Model
             ->select('category_id', 'language', 'topic')
             ->from('category')
             ->where(array('type', $type))
-            ->order('category_id');
+            ->order('CAST(category_id AS UNSIGNED)');
         $result = [];
         foreach ($query->execute() as $item) {
             if ($multiple_language) {

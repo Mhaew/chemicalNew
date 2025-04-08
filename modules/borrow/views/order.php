@@ -129,7 +129,7 @@ class View extends \Gcms\View
             'readonly' => true
         ));
         $fieldset = $form->add('fieldset', array(
-            'title' => '{LNG_Details of} อาจารย์ที่ปรึกษา',
+            'title' => '{LNG_Details of} อาจารย์ที่ปรึกษาและผู้สอน',
             'titleClass' => 'icon-profile'
         ));
         $groups = $fieldset->add('groups');
@@ -151,6 +151,47 @@ class View extends \Gcms\View
             'title' => 'เบอร์ติดต่อ',
             'value' => $index->p_phone,
             'autofocus' => true,
+            'readonly' => true
+        ));
+        $groups = $fieldset->add('groups');
+        $groups->add('text', array(
+            'id' => 'techer',
+            'labelClass' => 'g-input icon-customer',
+            'itemClass' => 'width40',
+            'label' => 'อาจารย์ผู้สอน',
+            'title' => 'อาจารย์ผู้สอน',
+            'value' => $index->techer,
+            'autofocus' => true,
+            'readonly' => true
+        ));
+        $groups->add('text', array(
+            'id' => 'techerMajors',
+            'labelClass' => 'g-input icon-profile',
+            'itemClass' => 'width40',
+            'label' => 'สาขา',
+            'title' => 'สาขา',
+            'value' => $index->techerMajors,
+            'autofocus' => true,
+            'readonly' => true
+        ));
+        $groups->add('text', array(
+            'id' => 'useFor',
+            'labelClass' => 'g-input icon-menus',
+            'itemClass' => 'width40',
+            'label' => 'จุดประสงค์ที่เบิก',
+            'title' => 'จุดประสงค์ที่เบิก',
+            'value' => $index->useFor,
+            'autofocus' => true,
+            'readonly' => true
+        ));
+        $groups = $fieldset->add('groups');
+        $groups->add('date', array(
+            'id' => 'use_date',
+            'labelClass' => 'g-input icon-calendar',
+            'itemClass' => 'width50',
+            'label' => 'วันที่ต้องการใช้',
+            'value' => $index->use_date,
+            
             'readonly' => true
         ));
         
@@ -201,6 +242,7 @@ class View extends \Gcms\View
         $table .= '<th>{LNG_Quantity}</th>';
         $table .= '<th>{LNG_Delivery}</th>';
         $table .= '<th>{LNG_Status}</th>';
+        $table .= '<th>หมายเหตุ</th>';
         $table .= '<th colspan="3"></th>';
         $table .= '</tr></thead><tbody id=tb_products>';
         foreach (\Borrow\Order\Model::items($index->id) as $item) {
@@ -208,12 +250,16 @@ class View extends \Gcms\View
             $table .= '<td><a id="product_no_'.$item['product_no'].'">'.$item['topic'].' ('.$item['product_no'].')</a></td>';
             $table .= '<td class="center">'.$item['num_requests'].'</td>';
             $table .= '<td class="center" id="amount_'.$item['id'].'">'.$item['amount'].'</td>';
+            // $table .= '<td class="center">'.$item['detail'].'</td>';
             $table .= '<td class="center"><span class="term'.$item['status'].'" id="status_'.$item['id'].'">'.$borrow_status[$item['status']].'</span></td>';
+            $table .= '<td class="center" id="detail_'.$item['id'].'">'.$item['detail'].'</td>';
             if ($item['status'] != 4) {
                 $table .= '<td class="center"><a id=delivery_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-outbox green">{LNG_Delivery}</a></td>';
                 $table .= '<td class="center"><a id=return_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-inbox blue">{LNG_Return}</a></td>';
                 $table .= '<td class="center"><a id=status_'.$item['borrow_id'].'_'.$item['id'].' class="button icon-star0 red">{LNG_Status update}</a></td>';
             }
+
+
             $table .= '</tr>';
         }
         $table .= '</tbody>';

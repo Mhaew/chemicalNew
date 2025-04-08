@@ -94,14 +94,14 @@ class View extends \Gcms\View
                     'sort' => 'phone',
                     'class' => 'center'
                 ),
-                'p_name' => array(
-                    'text' => 'อาจารย์ที่ปรึกษา',
-                    'sort' => 'p_name',
+                'techer' => array(
+                    'text' => 'อาจารย์ที่สอน',
+                    'sort' => 'techer',
                     'class' => 'center'
                 ),
-                'p_phone' => array(
-                    'text' => 'เบอร์ติดต่อ',
-                    'sort' => 'p_phone',
+                'useFor' => array(
+                    'text' => 'จุดประสงค์การเบิก',
+                    'sort' => 'useFor',
                     'class' => 'center'
                 )
             ),
@@ -125,10 +125,10 @@ class View extends \Gcms\View
                 'phone' => array(
                     'class' => 'center'
                 ),
-                'p_name' => array(
+                'techer' => array(
                     'class' => 'center'
                 ),
-                'p_phone' => array(
+                'useFor' => array(
                     'class' => 'center'
                 ),
                 'amount' => array(
@@ -177,10 +177,11 @@ class View extends \Gcms\View
         $item['topic'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['product_no'] . '">' . $item['topic'] . '</a>';
         $item['borrower'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;borrower_id=' . $item['borrower_id'] . '" class="status' . $item['Ustatus'] . '">' . $item['borrower'] . '</a>';
         // $item['major'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;borrower_id=' . $item['borrower_id'] . '">' . $item['major'] . '</a>';
-        $item['major'] = $item['major'];
+        $item['major'] = '<a href="index.php?module=borrow-report&amp;status=' . $item['status'] . '&amp;search=' . $item['major'] . '">' . $item['major'] . '</a>';
+        // $item['major'] = $item['major'];
         $item['phone'] = $item['phone'];
-        $item['p_name'] = $item['p_name'];
-        $item['p_phone'] = $item['p_phone'];
+        $item['techer'] = $item['techer'];
+        $item['useFor'] = $item['useFor'];
         $item['stock'] = empty($item['count_stock']) ? '{LNG_Unlimited}' : number_format($item['stock']);
         $item['num_requests'] = number_format($item['num_requests']);
         return $item;

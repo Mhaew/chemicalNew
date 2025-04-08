@@ -1,1 +1,0 @@
-<?php exit?>[{"pending":1,"returned":0,"confirmed":0,"allpending":5,"allconfirmed":4,"allreturned":2,"alldelivered":17,"unactive":0}]

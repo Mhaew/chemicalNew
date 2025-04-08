@@ -45,6 +45,7 @@ class Model extends \Kotchasan\Model
                 'borrow_no' => '',
                 'transaction_date' => date('Y-m-d'),
                 'borrow_date' => date('Y-m-d'),
+                'use_date' => date('Y-m-d'),
             ];
         } else {
             // แก้ไข อ่านรายการที่เลือก
@@ -88,9 +89,10 @@ class Model extends \Kotchasan\Model
                     'quantity' => 0,
                     'product_no' => '',
                     'topic' => '',
+                    'techer' => '',
                     // 'major' => '',
                     'unit' => '',
-                    'stock' => 0
+                    // 'stock' => 0,
                 ]
             ];
         }
@@ -114,6 +116,10 @@ class Model extends \Kotchasan\Model
                         'borrow_no' => $request->post('borrow_no')->topic(),
                         'transaction_date' => $request->post('transaction_date')->date(),
                         'borrow_date' => $request->post('borrow_date')->date(),
+                        'techer' => $request->post('techer')->topic(),
+                        'techerMajors' => $request->post('techerMajors')->topic(),
+                        'use_date' => $request->post('use_date')->date(),
+                        'useFor' => $request->post('useFor')->topic(),
                     ];
                     // ตรวจสอบรายการที่เลือก
                     $borrow = self::get($request->post('borrow_id')->toInt(), $login);
@@ -129,8 +135,11 @@ class Model extends \Kotchasan\Model
                             'topic' => $request->post('topic', [])->topic(),
                             'product_no' => $request->post('product_no', [])->topic(),
                             'unit' => $request->post('unit', [])->topic(),
-                            // 'major' => $request->post('major', [])->topic(),
-
+                            // ฟิลด์ใหม่ที่เพิ่ม
+                            // 'techer' => $request->post('techer', [])->topic(),
+                            // 'techerMajors' => $request->post('techerMajors', [])->topic(),
+                            // 'use_date' => $request->post('use_date', [])->date(),
+                            // 'useFor' => $request->post('useFor', [])->topic(),
                         ];
                         $items = [];
                         foreach ($datas['quantity'] as $key => $value) {
@@ -140,14 +149,16 @@ class Model extends \Kotchasan\Model
                                     'topic' => $datas['topic'][$key],
                                     'product_no' => $datas['product_no'][$key],
                                     'unit' => $datas['unit'][$key],
-                                    // 'major' => $datas['major'][$key],
-
+                                    // 'techer' => $datas['techer'][$key],
+                                    // 'techerMajors' => $datas['techerMajors'][$key],
+                                    // 'use_date' => $datas['use_date'][$key],
+                                    // 'useFor' => $datas['useFor'][$key],
                                     'status' => 0
                                 ];
                             }
                         }
                         if (empty($items)) {
-                            // ไม่ได้เลือก พัสดุ
+                            // ไม่ได้เลือกพัสดุ
                             $ret['ret_inventory'] = 'Please fill in';
                         }
                         if (empty($ret)) {
@@ -168,7 +179,6 @@ class Model extends \Kotchasan\Model
                                 if ($borrow->id > 0) {
                                     // แก้ไข
                                     $db->update($table_borrow, $borrow->id, $order);
-                                    // คืนค่า
                                     $ret['alert'] = Language::get('Saved successfully');
                                     $order['id'] = $borrow->id;
                                 } else {
@@ -183,32 +193,30 @@ class Model extends \Kotchasan\Model
                                     }
                                 }
                                 // ลบรายการเก่าออกก่อน
-                                $db->delete($table_borrow_items, [
-                                    ['borrow_id', $order['id']]
-                                ], 0);
+                                $db->delete($table_borrow_items, [['borrow_id', $order['id']]], 0);
                                 // save items
                                 $n = 0;
                                 foreach ($items as $save) {
+                                    // $save['techer'] =  $order['techer'];
+                                    // $save['techerMajors'] =  $order['techerMajors'];
+                                    // $save['use_date'] =  $order['use_date'];
+                                    // $save['useFor'] =  $order['useFor'];
                                     $save['id'] = $n;
                                     $save['borrow_id'] = $order['id'];
                                     $db->insert($table_borrow_items, $save);
                                     $n++;
                                 }
-                                
                                 if ($borrow->id == 0) {
-                                    // ส่งอีเมลไปยังผู้ที่เกี่ยวข้อง
                                     $ret['alert'] = \Borrow\Email\Model::send($order);
-                                    // log (ใหม่)
                                     $title = 'ส่งคำขอเบิกไปยังพนักงานแล้ว';
                                 } else {
-                                    // log (แก้ไข)
                                     $title = 'ส่งคำขอเบิกไปยังพนักงานแล้ว';
                                 }
                                 // log
                                 \Index\Log\Model::add($order['id'], 'borrow', 'Save', $title, $login['id'], $order);
-                                // คืนค่า
+                                // redirect
                                 $ret['location'] = $request->getUri()->postBack('index.php', ['module' => 'borrow-setup', 'type' => 0, 'id' => null]);
-                                // เคลียร์
+                                // clear token
                                 $request->removeToken();
                             }
                         }
@@ -224,4 +232,5 @@ class Model extends \Kotchasan\Model
         // คืนค่าเป็น JSON
         echo json_encode($ret);
     }
+    
 }

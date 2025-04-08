@@ -162,6 +162,7 @@ function initBorrowOrder() {
   initBorrower();
 }
 
+
 function initBorrower() {
   if ($E('borrower')) {
     initAutoComplete(
@@ -184,3 +185,5 @@ function initBorrower() {
     );
   }
 }
+
+

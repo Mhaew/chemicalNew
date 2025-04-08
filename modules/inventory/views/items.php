@@ -76,6 +76,10 @@ class View extends \Gcms\View
                     'text' => '{LNG_Serial/Registration No.}',
                     'colspan' => 2
                 ),
+                'size' => array(
+                    'text' => 'ขนาดบรรจุ',
+                    'class' => 'center'
+                ),
                 'stock' => array(
                     'text' => '{LNG_Stock}',
                     'class' => 'center'

@@ -51,7 +51,7 @@ class Model extends \Kotchasan\Model
     public static function items($borrow_id)
     {
         return static::createQuery()
-            ->select('S.borrow_id', 'S.id', 'S.num_requests', 'S.product_no', 'S.topic', 'S.unit',
+            ->select('S.borrow_id', 'S.id', 'S.num_requests','S.detail', 'S.product_no', 'S.topic', 'S.unit',
                 'S.amount', 'S.status', 'I.stock')
             ->from('borrow_items S')
             ->join('inventory_items I', 'INNER', ['I.product_no', 'S.product_no'])

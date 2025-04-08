@@ -60,10 +60,11 @@ return array (
   'line_channel_secret' => '',
   'line_official_account' => '',
   'line_channel_access_token' => '',
-  'line_api_key' => 'BKSvLjAdGbNL5se0MMPzii2leFDo9pplsIawsTSVbQu',
+  'line_api_key' => '',
   'modules' => 
   array (
     'borrow' => 1,
     'inventory' => 1,
   ),
+  
 );

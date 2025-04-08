@@ -12,6 +12,7 @@
 namespace Borrow\Index;
 
 use Kotchasan\Html;
+use Kotchasan\Language;
 
 /**
  * module=borrow
@@ -70,12 +71,63 @@ class View extends \Gcms\View
         $groups->add('date', array(
             'id' => 'borrow_date',
             'labelClass' => 'g-input icon-calendar',
-            'itemClass' => 'width50',
+            'itemClass' => 'width15',
             'label' => '{LNG_Borrowed date}',
             'value' => $index->borrow_date
         ));
+        // $groups->add('text', array(
+        //     'id' => 'techer',
+        //     'labelClass' => 'g-input icon-customer',
+        //     'itemClass' => 'width25',
+        //     'label' => 'อาจารย์ผู้สอน',
+        // ));
+        // $fieldset->add('text', [
+        //     'id' => 'techer',
+        //     'labelClass' => 'g-input icon-star0',
+        //     'itemClass' => 'item',
+        //     'label' => 'หมายเหตุ',
+        // ]);
+        $groups->add('text', array(
+            'id' => 'techer',
+            'labelClass' => 'g-input icon-customer',
+            'itemClass' => 'width25',
+            'label' => 'อาจารย์ผู้สอน',
+            'value' => $index->techer,
+        ));
+        $groups->add('select', array(
+            'id' => 'techerMajors',
+            'labelClass' => 'g-input icon-menus',
+            'itemClass' => 'width30',
+            'options' => Language::get('MAJORS'),
+            'label' => 'รายวิชา',
+        ));
+        $groups = $fieldset->add('groups');
+        $groups->add('date', array(
+            'id' => 'use_date',
+            'labelClass' => 'g-input icon-calendar',
+            'itemClass' => 'width15',
+            'label' => 'วันที่ต้องการใช้',
+            'value' => $index->use_date
+        ));
+        // ดึง options จาก Language
+        $usefors = Language::get('USEFORS');
 
-        
+        // ตรวจสอบสิทธิ์ของผู้ใช้
+        $login = \Gcms\Login::isMember();
+        if (!in_array($login['status'], array(1, 3))) {
+            // ถ้าไม่ใช่แอดมินหรือ status 3 ให้ลบ 'บริการวิชาการ'
+            unset($usefors['บริการวิชาการ']);
+        }
+
+        // เพิ่ม select ลงในฟอร์ม
+        $groups->add('select', array(
+            'id' => 'useFor',
+            'labelClass' => 'g-input icon-menus',
+            'itemClass' => 'width40',
+            'options' => $usefors,
+            'label' => 'จุดประสงค์ของการเบิก',
+        ));
+
         // return_date
         $groups = $fieldset->add('groups');
         // inventory_quantity
@@ -98,19 +150,20 @@ class View extends \Gcms\View
         $table = '<table class="fullwidth"><thead><tr>';
         $table .= '<th>{LNG_Detail}</th>';
         $table .= '<th>{LNG_Serial/Registration No.}</th>';
+        // $table .= '<th class=center>จำนวนคงเหลือ</th>';
         $table .= '<th class=center>{LNG_Quantity}</th>';
         $table .= '<th class=center>{LNG_Unit}</th>';
-        // $table .= '<th class=center>สาขาวิชา</th>';
         $table .= '<th></th>';
         $table .= '</tr></thead><tbody id=tb_products>';
-        
+
         foreach (\Borrow\Index\Model::items($index->id) as $item) {
             $table .= '<tr' . ($index->id == 0 ? ' class=hidden' : '') . '>';
             $table .= '<td><label class="g-input"><input type=text name=topic[] value="' . $item['topic'] . '" readonly></label></td>';
             $table .= '<td><label class="g-input"><input type=text name=product_no[] value="' . $item['product_no'] . '" readonly></label></td>';
+            // $value = isset($item['stock']) ? $item['stock'] : 0;
+            // $table .= '<td><label class="g-input"><input type=text name=stock[] value="' . $value . '" readonly></label></td>';
             $table .= '<td><label class="g-input"><input type=text name=quantity[] size=2 value="' . $item['quantity'] . '" max="' . (empty($item['count_stock']) ? 2147483647 : $item['stock']) . '" class="num" ></label></td>';
             $table .= '<td><label class="g-input"><input type=text name=unit[] size="5" value="' . $item['unit'] . '" readonly></label></td>';
-            // $table .= '<td><label class="g-input"><input type=text name=major[] value="' . $item['major'] . '" readonly></label></td>';
             $table .= '<td><a class="button wide delete notext"><span class=icon-delete></span></a></td>';
             $table .= '</tr>';
         }

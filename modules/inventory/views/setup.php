@@ -69,7 +69,7 @@ class View extends \Gcms\View
             'perPage' => $request->cookie('inventorySetup_perPage', 30)->toInt(),
             'sort' => $request->cookie('inventorySetup_sort', 'id desc')->toString(),
             'onRow' => array($this, 'onRow'),
-            'hideColumns' => array('unit'),
+            'hideColumns' => array('unit', 'size'),
             'searchColumns' => ['topic', 'product_no', 'mj'],
             /* ตั้งค่าการกระทำของของตัวเลือกต่างๆ ด้านล่างตาราง ซึ่งจะใช้ร่วมกับการขีดถูกเลือกแถว */
             'action' => 'index.php/inventory/model/setup/action',
@@ -144,7 +144,7 @@ class View extends \Gcms\View
                     'sort' => 'size'
                 ),
                 'inuse' => array(
-                    'text' => 'ต้องการใช้',
+                    'text' => 'สถานะ',
                     'class' => 'center notext',
                     'sort' => 'inuse'
                 )
@@ -216,19 +216,22 @@ class View extends \Gcms\View
             }
         }
 
-        $item['inuse'] = '<a id=inuse_' . $item['id'] . ' class="icon-valid ' . ($item['inuse'] == 0 ? 'disabled' : 'access') . '" title="' . $this->inventory_status[$item['inuse']] . '"></a>';
+        $color = $item['inuse'] == 0 ? '#dc3545' : '#28a745';
+        $item['inuse'] = '<a id="inuse_' . $item['id'] . '" style="color: '.$color.';" class="icon-valid" title="' . $this->inventory_status[$item['inuse']] . '">' . $this->inventory_status[$item['inuse']] . '</a>';
+                // $item['inuse'] = '<a style="color: #28a745;" id="inuse_' . $item['id'] . '">ใช้งานอยู่</a>';
+
         $thumb = is_file(ROOT_PATH . DATA_FOLDER . 'inventory/' . $item['id'] . self::$cfg->stored_img_type) ? WEB_URL . DATA_FOLDER . 'inventory/' . $item['id'] . self::$cfg->stored_img_type : WEB_URL . 'skin/img/noicon.png';
         $item['id'] = '<img src="' . $thumb . '" style="max-height:50px;max-width:50px" alt=thumbnail>';
 
-        $item['size'] = $item['size'] . ' ' . $item['unit'];
+        $item['size'] = $item['size'];
         // Debug output
         error_log('Stock: ' . $item['stock'] . ' Size: ' . $item['size']);
 
         // ตรวจสอบ stock < 0.4 * size และแสดงผลเป็นสีแดง
         if (isset($item['stock'], $item['size']) && $item['stock'] < 0.4 * $item['size']) {
-            $item['stock'] = '<span style="color:red;">' . $item['stock'] . ' ' . $item['unit'] . '</span>';
+            $item['stock'] = '<span style="color:red;">' . $item['stock'] . '/' . $item['size'] . ' ' . $item['unit'] . '</span>';
         } else {
-            $item['stock'] .= ' ' . $item['unit'];
+            $item['stock'] .= '/' . $item['size'] . ' ' . $item['unit'];
         }
 
 

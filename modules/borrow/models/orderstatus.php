@@ -42,7 +42,7 @@ class Model extends \Kotchasan\Model
                 array('S.borrow_id', $borrow_id),
                 array('S.id', $id)
             ))
-            ->first('S.borrow_id', 'S.id', 'S.product_no', 'S.topic', 'S.amount', 'S.num_requests', 'S.status', 'I.stock', 'S.unit', 'V.count_stock');
+            ->first('S.borrow_id', 'S.id', 'S.product_no', 'S.topic', 'S.amount', 'S.num_requests','S.detail', 'S.status', 'I.stock', 'S.unit', 'V.count_stock');
     }
 
     /**
@@ -64,6 +64,7 @@ class Model extends \Kotchasan\Model
                     } else {
                         // ค่าที่ส่งมา
                         $action = $request->post('action')->toString();
+                        $detail = $request->post('detail')->toString();
                         $amount = $request->post('amount')->toInt();
                         $status = $request->post('status')->toInt();
                         if ($action === 'status') {
@@ -121,6 +122,7 @@ class Model extends \Kotchasan\Model
                                 $this->db()->update($this->getTableName('inventory_items'), array('product_no', $index->product_no), $stock);
                             }
                             if (isset($save)) {
+                                $save['detail'] = $detail;
                                 // บันทึก borrow_items
                                 $this->db()->update($this->getTableName('borrow_items'), array(
                                     array('borrow_id', $index->borrow_id),
@@ -132,6 +134,9 @@ class Model extends \Kotchasan\Model
                                 $ret['class'] = 'term'.$save['status'];
                                 if (isset($save['amount'])) {
                                     $ret['amount_'.$index->id] = $save['amount'];
+                                }
+                                if (isset($save['detail'])) {
+                                    $ret['detail_'.$index->id] = $save['detail'];
                                 }
                                 // log
                                 \Index\Log\Model::add($index->borrow_id, 'borrow', 'Status', $index->topic.' '.$ret['status_'.$index->id], $login['id']);

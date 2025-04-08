@@ -29,5 +29,6 @@ class Model extends \Gcms\Category
         // ชื่อหมวดหมู่
         $this->categories = array_keys(Language::get('INVENTORY_CATEGORIES'));
         $this->categories[] = 'unit';
+        
     }
 }
